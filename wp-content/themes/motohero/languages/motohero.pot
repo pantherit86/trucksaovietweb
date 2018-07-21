@@ -1,0 +1,5277 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: MotoHero\n"
+"POT-Creation-Date: 2016-07-26 10:52+0700\n"
+"PO-Revision-Date: 2016-07-26 10:52+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:11
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: blocks/canvas-menu.php:8
+msgid "Main menu"
+msgstr ""
+
+#: blocks/page-heading.php:39 blocks/page-heading.php:43
+#: blocks/page-heading.php:47
+msgid "Archive for "
+msgstr ""
+
+#: blocks/page-heading.php:51
+msgid "Author Archive"
+msgstr ""
+
+#: blocks/page-heading.php:54
+msgid "Blog Archives"
+msgstr ""
+
+#: blocks/page-heading.php:58
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: blocks/page-heading.php:61
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: blocks/page-heading.php:74
+msgid "Shop"
+msgstr ""
+
+#: blocks/paging.php:6 woocommerce/loop/pagination.php:30
+msgid "<i class=\"fa fa-angle-left\"></i>"
+msgstr ""
+
+#: blocks/paging.php:7 woocommerce/loop/pagination.php:31
+msgid "<i class=\"fa fa-angle-right\"></i>"
+msgstr ""
+
+#: blocks/panel-settings.php:8
+msgid "LAYOUT"
+msgstr ""
+
+#: blocks/panel-settings.php:10
+msgid "WIDE"
+msgstr ""
+
+#: blocks/panel-settings.php:11
+msgid "BOXED"
+msgstr ""
+
+#: blocks/panel-settings.php:15
+msgid "SAMPLE COLOR"
+msgstr ""
+
+#: blocks/panel-settings.php:25
+msgid ""
+"Please read our documentation file to know how to change colors as you want"
+msgstr ""
+
+#: blocks/panel-settings.php:30
+msgid "BACKGROUND COLOR"
+msgstr ""
+
+#: blocks/panel-settings.php:41
+msgid "BACKGROUND TEXTURE"
+msgstr ""
+
+#: blocks/panel-settings.php:55
+msgid "LEFT TO RIGHT"
+msgstr ""
+
+#: blocks/panel-settings.php:56
+msgid "RIGHT TO LEFT"
+msgstr ""
+
+#: blocks/panel-settings.php:62
+msgid "Reset"
+msgstr ""
+
+#: blocks/related-posts.php:19
+msgid "Related Post"
+msgstr ""
+
+#: blocks/related-posts.php:36
+#, php-format
+msgid "Posted %s in %s by %s"
+msgstr ""
+
+#: blocks/related-posts.php:42 content-gallery.php:64 content-video.php:65
+msgid "Read more"
+msgstr ""
+
+#: comments.php:24
+msgid "Comments"
+msgstr ""
+
+#: comments.php:29
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:36 comments.php:52
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:38 comments.php:54
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:67
+#, php-format
+msgid "Required fields are marked %s"
+msgstr ""
+
+#: comments.php:71
+msgid "Name*"
+msgstr ""
+
+#: comments.php:72
+msgid "Email*"
+msgstr ""
+
+#: comments.php:73
+msgid "Website"
+msgstr ""
+
+#: comments.php:77
+msgctxt "noun"
+msgid "Comment*"
+msgstr ""
+
+#: comments.php:80
+msgid "Your email address will not be published."
+msgstr ""
+
+#: content-gallery.php:26 content-image.php:18 content-link.php:14
+#: content-quote.php:19 content-single.php:43 content-video.php:27
+#: content.php:46
+msgid "Sticky"
+msgstr ""
+
+#: content-gallery.php:39 content-image.php:30 content-link.php:26
+#: content-quote.php:31 content-single.php:59 content-video.php:41
+#: content.php:58
+msgid "By"
+msgstr ""
+
+#: content-gallery.php:46 content-image.php:37 content-link.php:33
+#: content-quote.php:38 content-single.php:67 content-video.php:49
+#: content.php:65
+msgid "On"
+msgstr ""
+
+#: content-gallery.php:51 content-image.php:42 content-link.php:38
+#: content-quote.php:43 content-single.php:72 content-video.php:54
+#: content.php:70
+msgid "0 comment"
+msgstr ""
+
+#: content-gallery.php:51 content-image.php:42 content-link.php:38
+#: content-quote.php:43 content-single.php:72 content-video.php:54
+#: content.php:70
+msgid "1 Comment"
+msgstr ""
+
+#: content-gallery.php:51 content-image.php:42 content-link.php:38
+#: content-quote.php:43 content-single.php:72 content-video.php:54
+#: content.php:70
+msgid "% Comments"
+msgstr ""
+
+#: content-gallery.php:69 content-image.php:55 content-link.php:57
+#: content-page.php:14 content-single.php:84 content-video.php:70
+#: content.php:88
+msgid "Pages:"
+msgstr ""
+
+#: content-gallery.php:79 content-image.php:64 content-link.php:72
+#: content-quote.php:71 content-video.php:79 content.php:98
+msgid "Continue reading"
+msgstr ""
+
+#: content-gallery.php:82 content-image.php:67 content-link.php:75
+#: content-quote.php:74 content-video.php:82 content.php:101
+msgid "Share this"
+msgstr ""
+
+#: content-link.php:61 framework/theme-function.php:479
+msgid "Page"
+msgstr ""
+
+#: content-none.php:12
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:16
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content-none.php:20
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: content-none.php:25
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: content-page.php:22 framework/inc/template-tags.php:111
+#: framework/option-framework/inc/class.options_machine.php:922
+#: framework/option-framework/inc/class.options_machine.php:1001
+#: framework/option-framework/inc/class.options_machine.php:1050
+#: framework/theme-function.php:106
+msgid "Edit"
+msgstr ""
+
+#: content-single.php:99
+msgid "Share This Post"
+msgstr ""
+
+#: framework/importer/importer.php:26
+msgid "Error: Permission denied"
+msgstr ""
+
+#: framework/importer/importer.php:34
+msgid ""
+"Error: Could not start session! Please try to turn off debug mode and error "
+"reporting"
+msgstr ""
+
+#: framework/importer/importer.php:205
+msgid ""
+"Cheers! The demo data has been imported successfully! Please reload this "
+"page to finish!"
+msgstr ""
+
+#: framework/importer/importer.php:207
+msgid "Data import completed!"
+msgstr ""
+
+#: framework/importer/importer.php:212
+#, php-format
+msgid "Error: step not found: %s"
+msgstr ""
+
+#: framework/importer/importer.php:236
+msgid "Portfolios"
+msgstr ""
+
+#: framework/importer/importer.php:240 framework/theme-plugin-load.php:77
+msgid "Woocommerce"
+msgstr ""
+
+#: framework/importer/importer.php:243 framework/theme-plugin-load.php:72
+msgid "Contact Form 7"
+msgstr ""
+
+#: framework/importer/importer.php:247
+msgid "Media"
+msgstr ""
+
+#: framework/importer/importer.php:248
+msgid "Menus"
+msgstr ""
+
+#: framework/importer/importer.php:249
+msgid "Widgets"
+msgstr ""
+
+#: framework/importer/importer.php:252
+msgid "Sliders"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:332
+#: framework/theme-plugin-load.php:100
+msgid "Install Required Plugins"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:333
+#: framework/theme-plugin-load.php:101
+msgid "Install Plugins"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:335
+#: framework/theme-plugin-load.php:102
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:338
+#: framework/theme-plugin-load.php:103
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:341
+#: framework/theme-plugin-load.php:104
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/inc/class-tgm-plugin-activation.php:347
+#: framework/theme-plugin-load.php:105
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/inc/class-tgm-plugin-activation.php:353
+#: framework/theme-plugin-load.php:110
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/inc/class-tgm-plugin-activation.php:359
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/inc/class-tgm-plugin-activation.php:365
+#: framework/theme-plugin-load.php:107
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/inc/class-tgm-plugin-activation.php:371
+#: framework/theme-plugin-load.php:108
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/inc/class-tgm-plugin-activation.php:376
+#: framework/theme-plugin-load.php:112
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/inc/class-tgm-plugin-activation.php:381
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/inc/class-tgm-plugin-activation.php:386
+#: framework/theme-plugin-load.php:113
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/inc/class-tgm-plugin-activation.php:390
+#: framework/theme-plugin-load.php:114
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:391
+#: framework/inc/class-tgm-plugin-activation.php:793
+#: framework/inc/class-tgm-plugin-activation.php:867
+#: framework/inc/class-tgm-plugin-activation.php:2576
+#: framework/inc/class-tgm-plugin-activation.php:3640
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:392
+#: framework/inc/class-tgm-plugin-activation.php:3219
+#: framework/theme-plugin-load.php:115
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:393
+#: framework/inc/class-tgm-plugin-activation.php:3012
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/inc/class-tgm-plugin-activation.php:395
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:397
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:399
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:400
+msgid "Dismiss this notice"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:401
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:402
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:544
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:545
+msgid "Update Required"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:974
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:974
+#: framework/inc/class-tgm-plugin-activation.php:977
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:977
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:1164
+#: framework/inc/class-tgm-plugin-activation.php:3008
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2025
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2316
+msgid "Required"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2319
+msgid "Recommended"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2335
+msgid "WordPress Repository"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2338
+msgid "External Source"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2341
+msgid "Pre-Packaged"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2358
+msgid "Not Installed"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2362
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2364
+msgid "Active"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2370
+msgid "Required Update not Available"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2373
+msgid "Requires Update"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2376
+msgid "Update recommended"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2385
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2431
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2435
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2439
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2443
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2525
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2533
+msgid "Installed version:"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2541
+msgid "Minimum required version:"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2553
+msgid "Available version:"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2576
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2590
+msgid "Plugin"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2591
+msgid "Source"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2592
+msgid "Type"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2596
+msgid "Version"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2597
+msgid "Status"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2646
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2651
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2657
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2727
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2760
+msgid "Install"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2766
+msgid "Update"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2769
+msgid "Activate"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2800
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2802
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2843
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2845
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2965
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2991
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:3218
+msgid "Plugin activation failed."
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:3558
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:3561
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:3563
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:3567
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:3569
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:3569
+#: framework/inc/class-tgm-plugin-activation.php:3577
+msgid "Show Details"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:3569
+#: framework/inc/class-tgm-plugin-activation.php:3577
+msgid "Hide Details"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:3570
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:3572
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:3575
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:3577
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:3578
+msgid "All installations have been completed."
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:3580
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/inc/custom-nav.php:148
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#: framework/inc/custom-nav.php:152
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: framework/inc/custom-nav.php:176
+msgid "Move up"
+msgstr ""
+
+#: framework/inc/custom-nav.php:189
+msgid "Move down"
+msgstr ""
+
+#: framework/inc/custom-nav.php:191 framework/inc/custom-nav.php:193
+msgid "Edit Menu Item"
+msgstr ""
+
+#: framework/inc/custom-nav.php:202
+msgid "URL"
+msgstr ""
+
+#: framework/inc/custom-nav.php:209
+msgid "Navigation Label"
+msgstr ""
+
+#: framework/inc/custom-nav.php:215
+msgid "Title Attribute"
+msgstr ""
+
+#: framework/inc/custom-nav.php:222
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: framework/inc/custom-nav.php:227
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: framework/inc/custom-nav.php:233
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: framework/inc/custom-nav.php:239
+msgid "Description"
+msgstr ""
+
+#: framework/inc/custom-nav.php:241
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: framework/inc/custom-nav.php:249
+msgid "Input Icon"
+msgstr ""
+
+#: framework/inc/custom-nav.php:259
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: framework/inc/custom-nav.php:272
+#: framework/option-framework/inc/class.options_machine.php:855
+#: framework/option-framework/inc/class.options_machine.php:935
+msgid "Remove"
+msgstr ""
+
+#: framework/inc/custom-nav.php:273
+msgid "Cancel"
+msgstr ""
+
+#: framework/inc/extras.php:64
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: framework/inc/template-tags.php:21
+msgid "Posts navigation"
+msgstr ""
+
+#: framework/inc/template-tags.php:25
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: framework/inc/template-tags.php:29
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: framework/inc/template-tags.php:52
+msgid "Post navigation"
+msgstr ""
+
+#: framework/inc/template-tags.php:55
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">&larr;</span>&nbsp;%title"
+msgstr ""
+
+#: framework/inc/template-tags.php:56
+msgctxt "Next post link"
+msgid "%title&nbsp;<span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: framework/inc/template-tags.php:82
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: framework/inc/template-tags.php:87
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#: framework/inc/template-tags.php:104
+msgid " "
+msgstr ""
+
+#: framework/inc/woocommerce.php:53
+msgid "Product Newness"
+msgstr ""
+
+#: framework/inc/woocommerce.php:54
+msgid "Display the 'New' label for how many days?"
+msgstr ""
+
+#: framework/inc/woocommerce.php:81
+msgid "New"
+msgstr ""
+
+#: framework/option-framework/inc/class.options_machine.php:433
+msgid "System Requirements"
+msgstr ""
+
+#: framework/option-framework/inc/class.options_machine.php:481
+msgid "Add New Slide"
+msgstr ""
+
+#: framework/option-framework/inc/class.options_machine.php:490
+msgid "Option"
+msgstr ""
+
+#: framework/option-framework/inc/class.options_machine.php:491
+msgid "Add New Option"
+msgstr ""
+
+#: framework/option-framework/inc/class.options_machine.php:511
+msgid "Social"
+msgstr ""
+
+#: framework/option-framework/inc/class.options_machine.php:512
+msgid "Add New Social"
+msgstr ""
+
+#: framework/option-framework/inc/class.options_machine.php:642
+msgid "Last Backup : "
+msgstr ""
+
+#: framework/option-framework/inc/class.options_machine.php:643
+#: framework/theme-option.php:929
+msgid "Backup Options"
+msgstr ""
+
+#: framework/option-framework/inc/class.options_machine.php:644
+msgid "Restore Options"
+msgstr ""
+
+#: framework/option-framework/inc/class.options_machine.php:658
+msgid "Import Options"
+msgstr ""
+
+#: framework/option-framework/inc/class.options_machine.php:852
+#: framework/option-framework/inc/class.options_machine.php:932
+msgid "Upload"
+msgstr ""
+
+#: framework/option-framework/inc/class.options_machine.php:859
+msgid "Upgrade your version of WordPress for full media support"
+msgstr ""
+
+#: framework/option-framework/inc/class.options_machine.php:917
+msgid "Slide"
+msgstr ""
+
+#: framework/option-framework/inc/class.options_machine.php:926
+msgid "Title"
+msgstr ""
+
+#: framework/option-framework/inc/class.options_machine.php:929
+msgid "Image URL"
+msgstr ""
+
+#: framework/option-framework/inc/class.options_machine.php:946
+msgid "Link URL (optional)"
+msgstr ""
+
+#: framework/option-framework/inc/class.options_machine.php:949
+msgid "Description (optional)"
+msgstr ""
+
+#: framework/option-framework/inc/class.options_machine.php:952
+#: framework/option-framework/inc/class.options_machine.php:1005
+#: framework/option-framework/inc/class.options_machine.php:1063
+msgid "Delete"
+msgstr ""
+
+#: framework/option-framework/inc/class.options_machine.php:1084
+msgid "<span class=\"label1\">PHP Version: </span>"
+msgstr ""
+
+#: framework/option-framework/inc/class.options_machine.php:1086
+#: framework/option-framework/inc/class.options_machine.php:1088
+#: framework/option-framework/inc/class.options_machine.php:1096
+#: framework/option-framework/inc/class.options_machine.php:1098
+#: framework/option-framework/inc/class.options_machine.php:1106
+#: framework/option-framework/inc/class.options_machine.php:1108
+#, php-format
+msgid "<span class=\"label2\">Currently: %s</span>"
+msgstr ""
+
+#: framework/option-framework/inc/class.options_machine.php:1086
+msgid "Min: 5.3"
+msgstr ""
+
+#: framework/option-framework/inc/class.options_machine.php:1094
+msgid "<span class=\"label1\">Maximum execution time: </span>"
+msgstr ""
+
+#: framework/option-framework/inc/class.options_machine.php:1096
+msgid "Min: 90"
+msgstr ""
+
+#: framework/option-framework/inc/class.options_machine.php:1104
+msgid "<span class=\"label1\">Memory Limit: </span>"
+msgstr ""
+
+#: framework/option-framework/inc/class.options_machine.php:1106
+msgid "Min: 128M"
+msgstr ""
+
+#: framework/option-framework/inc/class.options_machine.php:1114
+msgid "<span class=\"label1\">Uploads folder writable: </span>"
+msgstr ""
+
+#: framework/option-framework/inc/class.options_machine.php:1124
+msgid "<span class=\"label1\">Start Session: </span>"
+msgstr ""
+
+#: framework/option-framework/inc/class.options_machine.php:1130
+msgid ""
+"<span class=\"label2\">Failed to start session. Please check session "
+"save_path in your php setting</span>"
+msgstr ""
+
+#: framework/option-framework/inc/view.fontend_options.php:36
+msgid "Save Change"
+msgstr ""
+
+#: framework/theme-function.php:71
+msgid "Pingback:"
+msgstr ""
+
+#: framework/theme-function.php:71
+msgid "(Edit)"
+msgstr ""
+
+#: framework/theme-function.php:94
+#, php-format
+msgid "%s - %s"
+msgstr ""
+
+#: framework/theme-function.php:96
+msgid "Reply"
+msgstr ""
+
+#: framework/theme-function.php:101
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: framework/theme-function.php:171 framework/theme-function.php:311
+msgctxt "title"
+msgid "Share on Facebook"
+msgstr ""
+
+#: framework/theme-function.php:175
+msgctxt "title"
+msgid "Share on Twitter"
+msgstr ""
+
+#: framework/theme-function.php:179
+msgctxt "title"
+msgid "Share on Linkedin"
+msgstr ""
+
+#: framework/theme-function.php:183
+msgctxt "title"
+msgid "Google Plus"
+msgstr ""
+
+#: framework/theme-function.php:187
+msgctxt "title"
+msgid "Share on Tumblr"
+msgstr ""
+
+#: framework/theme-function.php:191
+msgctxt "title"
+msgid "Pinterest"
+msgstr ""
+
+#: framework/theme-function.php:194
+msgctxt "title"
+msgid "I wanted you to see this site"
+msgstr ""
+
+#: framework/theme-function.php:195
+msgctxt "title"
+msgid "Email"
+msgstr ""
+
+#: framework/theme-function.php:350 woocommerce/global/breadcrumb.php:29
+msgid "Home"
+msgstr ""
+
+#: framework/theme-function.php:351
+#, php-format
+msgid "Archive by Category \"%s\""
+msgstr ""
+
+#: framework/theme-function.php:352
+#, php-format
+msgid "Archive for \"%s\""
+msgstr ""
+
+#: framework/theme-function.php:353
+#, php-format
+msgid "Search Results for \"%s\" Query"
+msgstr ""
+
+#: framework/theme-function.php:354
+#, php-format
+msgid "Posts Tagged \"%s\""
+msgstr ""
+
+#: framework/theme-function.php:355
+#, php-format
+msgid "Articles Posted by %s"
+msgstr ""
+
+#: framework/theme-function.php:356
+msgid "Error 404"
+msgstr ""
+
+#: framework/theme-function.php:514
+msgid "ABeeZee"
+msgstr ""
+
+#: framework/theme-function.php:515
+msgid "Abel"
+msgstr ""
+
+#: framework/theme-function.php:516
+msgid "Abril Fatface"
+msgstr ""
+
+#: framework/theme-function.php:517
+msgid "Aclonica"
+msgstr ""
+
+#: framework/theme-function.php:518
+msgid "Acme"
+msgstr ""
+
+#: framework/theme-function.php:519
+msgid "Actor"
+msgstr ""
+
+#: framework/theme-function.php:520
+msgid "Adamina"
+msgstr ""
+
+#: framework/theme-function.php:521
+msgid "Advent Pro"
+msgstr ""
+
+#: framework/theme-function.php:522
+msgid "Aguafina Script"
+msgstr ""
+
+#: framework/theme-function.php:523
+msgid "Akronim"
+msgstr ""
+
+#: framework/theme-function.php:524
+msgid "Aladin"
+msgstr ""
+
+#: framework/theme-function.php:525
+msgid "Aldrich"
+msgstr ""
+
+#: framework/theme-function.php:526
+msgid "Alef"
+msgstr ""
+
+#: framework/theme-function.php:527
+msgid "Alegreya"
+msgstr ""
+
+#: framework/theme-function.php:528
+msgid "Alegreya SC"
+msgstr ""
+
+#: framework/theme-function.php:529
+msgid "Alegreya Sans"
+msgstr ""
+
+#: framework/theme-function.php:530
+msgid "Alegreya Sans SC"
+msgstr ""
+
+#: framework/theme-function.php:531
+msgid "Alex Brush"
+msgstr ""
+
+#: framework/theme-function.php:532
+msgid "Alfa Slab One"
+msgstr ""
+
+#: framework/theme-function.php:533
+msgid "Alice"
+msgstr ""
+
+#: framework/theme-function.php:534
+msgid "Alike"
+msgstr ""
+
+#: framework/theme-function.php:535
+msgid "Alike Angular"
+msgstr ""
+
+#: framework/theme-function.php:536
+msgid "Allan"
+msgstr ""
+
+#: framework/theme-function.php:537
+msgid "Allerta"
+msgstr ""
+
+#: framework/theme-function.php:538
+msgid "Allerta Stencil"
+msgstr ""
+
+#: framework/theme-function.php:539
+msgid "Allura"
+msgstr ""
+
+#: framework/theme-function.php:540
+msgid "Almendra"
+msgstr ""
+
+#: framework/theme-function.php:541
+msgid "Almendra Display"
+msgstr ""
+
+#: framework/theme-function.php:542
+msgid "Almendra SC"
+msgstr ""
+
+#: framework/theme-function.php:543
+msgid "Amarante"
+msgstr ""
+
+#: framework/theme-function.php:544
+msgid "Amaranth"
+msgstr ""
+
+#: framework/theme-function.php:545
+msgid "Amatic SC"
+msgstr ""
+
+#: framework/theme-function.php:546
+msgid "Amethysta"
+msgstr ""
+
+#: framework/theme-function.php:547
+msgid "Anaheim"
+msgstr ""
+
+#: framework/theme-function.php:548
+msgid "Andada"
+msgstr ""
+
+#: framework/theme-function.php:549
+msgid "Andika"
+msgstr ""
+
+#: framework/theme-function.php:550
+msgid "Angkor"
+msgstr ""
+
+#: framework/theme-function.php:551
+msgid "Annie Use Your Telescope"
+msgstr ""
+
+#: framework/theme-function.php:552
+msgid "Anonymous Pro"
+msgstr ""
+
+#: framework/theme-function.php:553
+msgid "Antic"
+msgstr ""
+
+#: framework/theme-function.php:554
+msgid "Antic Didone"
+msgstr ""
+
+#: framework/theme-function.php:555
+msgid "Antic Slab"
+msgstr ""
+
+#: framework/theme-function.php:556
+msgid "Anton"
+msgstr ""
+
+#: framework/theme-function.php:557
+msgid "Arapey"
+msgstr ""
+
+#: framework/theme-function.php:558
+msgid "Arbutus"
+msgstr ""
+
+#: framework/theme-function.php:559
+msgid "Arbutus Slab"
+msgstr ""
+
+#: framework/theme-function.php:560
+msgid "Architects Daughter"
+msgstr ""
+
+#: framework/theme-function.php:561
+msgid "Archivo Black"
+msgstr ""
+
+#: framework/theme-function.php:562
+msgid "Archivo Narrow"
+msgstr ""
+
+#: framework/theme-function.php:563
+msgid "Arimo"
+msgstr ""
+
+#: framework/theme-function.php:564
+msgid "Arizonia"
+msgstr ""
+
+#: framework/theme-function.php:565
+msgid "Armata"
+msgstr ""
+
+#: framework/theme-function.php:566
+msgid "Artifika"
+msgstr ""
+
+#: framework/theme-function.php:567
+msgid "Arvo"
+msgstr ""
+
+#: framework/theme-function.php:568
+msgid "Asap"
+msgstr ""
+
+#: framework/theme-function.php:569
+msgid "Asset"
+msgstr ""
+
+#: framework/theme-function.php:570
+msgid "Astloch"
+msgstr ""
+
+#: framework/theme-function.php:571
+msgid "Asul"
+msgstr ""
+
+#: framework/theme-function.php:572
+msgid "Atomic Age"
+msgstr ""
+
+#: framework/theme-function.php:573
+msgid "Aubrey"
+msgstr ""
+
+#: framework/theme-function.php:574
+msgid "Audiowide"
+msgstr ""
+
+#: framework/theme-function.php:575
+msgid "Autour One"
+msgstr ""
+
+#: framework/theme-function.php:576 woocommerce/single-product-reviews.php:87
+msgid "Average"
+msgstr ""
+
+#: framework/theme-function.php:577
+msgid "Average Sans"
+msgstr ""
+
+#: framework/theme-function.php:578
+msgid "Averia Gruesa Libre"
+msgstr ""
+
+#: framework/theme-function.php:579
+msgid "Averia Libre"
+msgstr ""
+
+#: framework/theme-function.php:580
+msgid "Averia Sans Libre"
+msgstr ""
+
+#: framework/theme-function.php:581
+msgid "Averia Serif Libre"
+msgstr ""
+
+#: framework/theme-function.php:582
+msgid "Bad Script"
+msgstr ""
+
+#: framework/theme-function.php:583
+msgid "Balthazar"
+msgstr ""
+
+#: framework/theme-function.php:584
+msgid "Bangers"
+msgstr ""
+
+#: framework/theme-function.php:585
+msgid "Basic"
+msgstr ""
+
+#: framework/theme-function.php:586
+msgid "Battambang"
+msgstr ""
+
+#: framework/theme-function.php:587
+msgid "Baumans"
+msgstr ""
+
+#: framework/theme-function.php:588
+msgid "Bayon"
+msgstr ""
+
+#: framework/theme-function.php:589
+msgid "Belgrano"
+msgstr ""
+
+#: framework/theme-function.php:590
+msgid "Belleza"
+msgstr ""
+
+#: framework/theme-function.php:591
+msgid "BenchNine"
+msgstr ""
+
+#: framework/theme-function.php:592
+msgid "Bentham"
+msgstr ""
+
+#: framework/theme-function.php:593
+msgid "Berkshire Swash"
+msgstr ""
+
+#: framework/theme-function.php:594
+msgid "Bevan"
+msgstr ""
+
+#: framework/theme-function.php:595
+msgid "Bigelow Rules"
+msgstr ""
+
+#: framework/theme-function.php:596
+msgid "Bigshot One"
+msgstr ""
+
+#: framework/theme-function.php:597
+msgid "Bilbo"
+msgstr ""
+
+#: framework/theme-function.php:598
+msgid "Bilbo Swash Caps"
+msgstr ""
+
+#: framework/theme-function.php:599
+msgid "Bitter"
+msgstr ""
+
+#: framework/theme-function.php:600 framework/theme-function.php:640
+msgid "Black Ops One"
+msgstr ""
+
+#: framework/theme-function.php:601
+msgid "Bokor"
+msgstr ""
+
+#: framework/theme-function.php:602
+msgid "Bonbon"
+msgstr ""
+
+#: framework/theme-function.php:603
+msgid "Boogaloo"
+msgstr ""
+
+#: framework/theme-function.php:604
+msgid "Bowlby One"
+msgstr ""
+
+#: framework/theme-function.php:605
+msgid "Bowlby One SC"
+msgstr ""
+
+#: framework/theme-function.php:606
+msgid "Brawler"
+msgstr ""
+
+#: framework/theme-function.php:607
+msgid "Bree Serif"
+msgstr ""
+
+#: framework/theme-function.php:608
+msgid "Bubblegum Sans"
+msgstr ""
+
+#: framework/theme-function.php:609
+msgid "Bubbler One"
+msgstr ""
+
+#: framework/theme-function.php:610
+msgid "Buda"
+msgstr ""
+
+#: framework/theme-function.php:611
+msgid "Buenard"
+msgstr ""
+
+#: framework/theme-function.php:612
+msgid "Butcherman"
+msgstr ""
+
+#: framework/theme-function.php:613
+msgid "Butterfly Kids"
+msgstr ""
+
+#: framework/theme-function.php:614
+msgid "Cabin"
+msgstr ""
+
+#: framework/theme-function.php:615
+msgid "Cabin Condensed"
+msgstr ""
+
+#: framework/theme-function.php:616
+msgid "Cabin Sketch"
+msgstr ""
+
+#: framework/theme-function.php:617
+msgid "Caesar Dressing"
+msgstr ""
+
+#: framework/theme-function.php:618
+msgid "Cagliostro"
+msgstr ""
+
+#: framework/theme-function.php:619
+msgid "Calligraffitti"
+msgstr ""
+
+#: framework/theme-function.php:620
+msgid "Cambo"
+msgstr ""
+
+#: framework/theme-function.php:621
+msgid "Candal"
+msgstr ""
+
+#: framework/theme-function.php:622
+msgid "Cantarell"
+msgstr ""
+
+#: framework/theme-function.php:623
+msgid "Cantata One"
+msgstr ""
+
+#: framework/theme-function.php:624
+msgid "Cantora One"
+msgstr ""
+
+#: framework/theme-function.php:625
+msgid "Capriola"
+msgstr ""
+
+#: framework/theme-function.php:626
+msgid "Cardo"
+msgstr ""
+
+#: framework/theme-function.php:627
+msgid "Carme"
+msgstr ""
+
+#: framework/theme-function.php:628
+msgid "Carrois Gothic"
+msgstr ""
+
+#: framework/theme-function.php:629
+msgid "Carrois Gothic SC"
+msgstr ""
+
+#: framework/theme-function.php:630
+msgid "Carter One"
+msgstr ""
+
+#: framework/theme-function.php:631
+msgid "Caudex"
+msgstr ""
+
+#: framework/theme-function.php:632
+msgid "Cedarville Cursive"
+msgstr ""
+
+#: framework/theme-function.php:633
+msgid "Ceviche One"
+msgstr ""
+
+#: framework/theme-function.php:634
+msgid "Changa One"
+msgstr ""
+
+#: framework/theme-function.php:635
+msgid "Chango"
+msgstr ""
+
+#: framework/theme-function.php:636
+msgid "Chau Philomene One"
+msgstr ""
+
+#: framework/theme-function.php:637
+msgid "Chela One"
+msgstr ""
+
+#: framework/theme-function.php:638
+msgid "Chelsea Market"
+msgstr ""
+
+#: framework/theme-function.php:639
+msgid "Chenla"
+msgstr ""
+
+#: framework/theme-function.php:641
+msgid "Cherry Swash"
+msgstr ""
+
+#: framework/theme-function.php:642
+msgid "Chewy"
+msgstr ""
+
+#: framework/theme-function.php:643
+msgid "Chicle"
+msgstr ""
+
+#: framework/theme-function.php:644
+msgid "Chivo"
+msgstr ""
+
+#: framework/theme-function.php:645
+msgid "Cinzel"
+msgstr ""
+
+#: framework/theme-function.php:646
+msgid "Cinzel Decorative"
+msgstr ""
+
+#: framework/theme-function.php:647
+msgid "Clicker Script"
+msgstr ""
+
+#: framework/theme-function.php:648
+msgid "Coda"
+msgstr ""
+
+#: framework/theme-function.php:649
+msgid "Coda Caption"
+msgstr ""
+
+#: framework/theme-function.php:650
+msgid "Codystare"
+msgstr ""
+
+#: framework/theme-function.php:651
+msgid "Combo"
+msgstr ""
+
+#: framework/theme-function.php:652
+msgid "Comfortaa"
+msgstr ""
+
+#: framework/theme-function.php:653
+msgid "Coming Soon"
+msgstr ""
+
+#: framework/theme-function.php:654
+msgid "Concert One"
+msgstr ""
+
+#: framework/theme-function.php:655
+msgid "Condiment"
+msgstr ""
+
+#: framework/theme-function.php:656
+msgid "Content"
+msgstr ""
+
+#: framework/theme-function.php:657
+msgid "Contrail One"
+msgstr ""
+
+#: framework/theme-function.php:658
+msgid "Convergence"
+msgstr ""
+
+#: framework/theme-function.php:659
+msgid "Cookie"
+msgstr ""
+
+#: framework/theme-function.php:660
+msgid "Copse"
+msgstr ""
+
+#: framework/theme-function.php:661
+msgid "Corben"
+msgstr ""
+
+#: framework/theme-function.php:662
+msgid "Courgette"
+msgstr ""
+
+#: framework/theme-function.php:663
+msgid "Cousine"
+msgstr ""
+
+#: framework/theme-function.php:664
+msgid "Coustard"
+msgstr ""
+
+#: framework/theme-function.php:665
+msgid "Covered By Your Grace"
+msgstr ""
+
+#: framework/theme-function.php:666
+msgid "Crafty Girls"
+msgstr ""
+
+#: framework/theme-function.php:667
+msgid "Creepster"
+msgstr ""
+
+#: framework/theme-function.php:668
+msgid "Crete Round"
+msgstr ""
+
+#: framework/theme-function.php:669
+msgid "Crimson Text"
+msgstr ""
+
+#: framework/theme-function.php:670
+msgid "Croissant One"
+msgstr ""
+
+#: framework/theme-function.php:671
+msgid "Crushed"
+msgstr ""
+
+#: framework/theme-function.php:672
+msgid "Cuprum"
+msgstr ""
+
+#: framework/theme-function.php:673 framework/theme-function.php:716
+msgid "Cutive"
+msgstr ""
+
+#: framework/theme-function.php:674
+msgid "Cutive Mono"
+msgstr ""
+
+#: framework/theme-function.php:675
+msgid "Damion"
+msgstr ""
+
+#: framework/theme-function.php:676
+msgid "Dancing Script"
+msgstr ""
+
+#: framework/theme-function.php:677
+msgid "Dangrek"
+msgstr ""
+
+#: framework/theme-function.php:678
+msgid "Dawning of a New Day"
+msgstr ""
+
+#: framework/theme-function.php:679
+msgid "Days One"
+msgstr ""
+
+#: framework/theme-function.php:680
+msgid "Delius"
+msgstr ""
+
+#: framework/theme-function.php:681
+msgid "Delius Swash Caps"
+msgstr ""
+
+#: framework/theme-function.php:682
+msgid "Delius Unicase"
+msgstr ""
+
+#: framework/theme-function.php:683
+msgid "Della Respira"
+msgstr ""
+
+#: framework/theme-function.php:684
+msgid "Denk One"
+msgstr ""
+
+#: framework/theme-function.php:685
+msgid "Devonshire"
+msgstr ""
+
+#: framework/theme-function.php:686
+msgid "Didact Gothic"
+msgstr ""
+
+#: framework/theme-function.php:687
+msgid "Diplomata"
+msgstr ""
+
+#: framework/theme-function.php:688
+msgid "Diplomata SC"
+msgstr ""
+
+#: framework/theme-function.php:689
+msgid "Domine"
+msgstr ""
+
+#: framework/theme-function.php:690
+msgid "Donegal One"
+msgstr ""
+
+#: framework/theme-function.php:691
+msgid "Doppio One"
+msgstr ""
+
+#: framework/theme-function.php:692
+msgid "Dorsa"
+msgstr ""
+
+#: framework/theme-function.php:693
+msgid "Dosis"
+msgstr ""
+
+#: framework/theme-function.php:694
+msgid "Dr Sugiyama"
+msgstr ""
+
+#: framework/theme-function.php:695
+msgid "Droid Sans"
+msgstr ""
+
+#: framework/theme-function.php:696
+msgid "Droid Sans Mono"
+msgstr ""
+
+#: framework/theme-function.php:697
+msgid "Droid Serif"
+msgstr ""
+
+#: framework/theme-function.php:698
+msgid "Duru Sans"
+msgstr ""
+
+#: framework/theme-function.php:699
+msgid "Dynalight"
+msgstr ""
+
+#: framework/theme-function.php:700
+msgid "EB Garamond"
+msgstr ""
+
+#: framework/theme-function.php:701
+msgid "Eagle Lake"
+msgstr ""
+
+#: framework/theme-function.php:702
+msgid "Eater"
+msgstr ""
+
+#: framework/theme-function.php:703
+msgid "Economica"
+msgstr ""
+
+#: framework/theme-function.php:704
+msgid "Electrolize"
+msgstr ""
+
+#: framework/theme-function.php:705
+msgid "Elsie"
+msgstr ""
+
+#: framework/theme-function.php:706
+msgid "Elsie Swash Caps"
+msgstr ""
+
+#: framework/theme-function.php:707
+msgid "Emblema One"
+msgstr ""
+
+#: framework/theme-function.php:708
+msgid "Emilys Candy"
+msgstr ""
+
+#: framework/theme-function.php:709
+msgid "Engagement"
+msgstr ""
+
+#: framework/theme-function.php:710
+msgid "Englebert"
+msgstr ""
+
+#: framework/theme-function.php:711
+msgid "Enriqueta"
+msgstr ""
+
+#: framework/theme-function.php:712
+msgid "Erica One"
+msgstr ""
+
+#: framework/theme-function.php:713
+msgid "Esteban"
+msgstr ""
+
+#: framework/theme-function.php:714
+msgid "Euphoria Script"
+msgstr ""
+
+#: framework/theme-function.php:715
+msgid "Ewert"
+msgstr ""
+
+#: framework/theme-function.php:717
+msgid "Exo 2"
+msgstr ""
+
+#: framework/theme-function.php:718
+msgid "Expletus Sans"
+msgstr ""
+
+#: framework/theme-function.php:719
+msgid "Fanwood Text"
+msgstr ""
+
+#: framework/theme-function.php:720
+msgid "Fascinate"
+msgstr ""
+
+#: framework/theme-function.php:721
+msgid "Fascinate Inline"
+msgstr ""
+
+#: framework/theme-function.php:722
+msgid "Faster One"
+msgstr ""
+
+#: framework/theme-function.php:723
+msgid "Fasthand"
+msgstr ""
+
+#: framework/theme-function.php:724
+msgid "Fauna One"
+msgstr ""
+
+#: framework/theme-function.php:725
+msgid "Federant"
+msgstr ""
+
+#: framework/theme-function.php:726
+msgid "Federo"
+msgstr ""
+
+#: framework/theme-function.php:727
+msgid "Felipa"
+msgstr ""
+
+#: framework/theme-function.php:728
+msgid "Fenix"
+msgstr ""
+
+#: framework/theme-function.php:729
+msgid "Finger Paint"
+msgstr ""
+
+#: framework/theme-function.php:730
+msgid "Fjalla One"
+msgstr ""
+
+#: framework/theme-function.php:731
+msgid "Fjord One"
+msgstr ""
+
+#: framework/theme-function.php:732
+msgid "Flamenco"
+msgstr ""
+
+#: framework/theme-function.php:733
+msgid "Flavors"
+msgstr ""
+
+#: framework/theme-function.php:734
+msgid "Fondamento"
+msgstr ""
+
+#: framework/theme-function.php:735
+msgid "Fontdiner Swanky"
+msgstr ""
+
+#: framework/theme-function.php:736
+msgid "Forum"
+msgstr ""
+
+#: framework/theme-function.php:737
+msgid "Francois One"
+msgstr ""
+
+#: framework/theme-function.php:738
+msgid "Freckle Face"
+msgstr ""
+
+#: framework/theme-function.php:739
+msgid "Fredericka the Great"
+msgstr ""
+
+#: framework/theme-function.php:740
+msgid "Fredoka One"
+msgstr ""
+
+#: framework/theme-function.php:741
+msgid "Freehand"
+msgstr ""
+
+#: framework/theme-function.php:742
+msgid "Fresca"
+msgstr ""
+
+#: framework/theme-function.php:743
+msgid "Frijole"
+msgstr ""
+
+#: framework/theme-function.php:744
+msgid "Fruktur"
+msgstr ""
+
+#: framework/theme-function.php:745
+msgid "Fugaz One"
+msgstr ""
+
+#: framework/theme-function.php:746
+msgid "GFS Didot"
+msgstr ""
+
+#: framework/theme-function.php:747
+msgid "GFS Neohellenic"
+msgstr ""
+
+#: framework/theme-function.php:748
+msgid "Gabriela"
+msgstr ""
+
+#: framework/theme-function.php:749
+msgid "Gafata"
+msgstr ""
+
+#: framework/theme-function.php:750
+msgid "Galdeano"
+msgstr ""
+
+#: framework/theme-function.php:751
+msgid "Galindo"
+msgstr ""
+
+#: framework/theme-function.php:752
+msgid "Gentium Basic"
+msgstr ""
+
+#: framework/theme-function.php:753
+msgid "Gentium Book Basic"
+msgstr ""
+
+#: framework/theme-function.php:754
+msgid "Geo"
+msgstr ""
+
+#: framework/theme-function.php:755
+msgid "Geostar"
+msgstr ""
+
+#: framework/theme-function.php:756
+msgid "Geostar Fill"
+msgstr ""
+
+#: framework/theme-function.php:757
+msgid "Germania One"
+msgstr ""
+
+#: framework/theme-function.php:758
+msgid "Gilda Display"
+msgstr ""
+
+#: framework/theme-function.php:759
+msgid "Give You Glory"
+msgstr ""
+
+#: framework/theme-function.php:760
+msgid "Glass Antiqua"
+msgstr ""
+
+#: framework/theme-function.php:761
+msgid "Glegoo"
+msgstr ""
+
+#: framework/theme-function.php:762
+msgid "Gloria Hallelujah"
+msgstr ""
+
+#: framework/theme-function.php:763
+msgid "Goblin One"
+msgstr ""
+
+#: framework/theme-function.php:764
+msgid "Gochi Hand"
+msgstr ""
+
+#: framework/theme-function.php:765
+msgid "Gorditas"
+msgstr ""
+
+#: framework/theme-function.php:766
+msgid "Goudy Bookletter 1911"
+msgstr ""
+
+#: framework/theme-function.php:767
+msgid "Graduate"
+msgstr ""
+
+#: framework/theme-function.php:768
+msgid "Grand Hotel"
+msgstr ""
+
+#: framework/theme-function.php:769
+msgid "Gravitas One"
+msgstr ""
+
+#: framework/theme-function.php:770
+msgid "Great Vibes"
+msgstr ""
+
+#: framework/theme-function.php:771
+msgid "Griffy"
+msgstr ""
+
+#: framework/theme-function.php:772
+msgid "Gruppo"
+msgstr ""
+
+#: framework/theme-function.php:773
+msgid "Gudea"
+msgstr ""
+
+#: framework/theme-function.php:774
+msgid "Habibi"
+msgstr ""
+
+#: framework/theme-function.php:775
+msgid "Hammersmith One"
+msgstr ""
+
+#: framework/theme-function.php:776
+msgid "Hanalei"
+msgstr ""
+
+#: framework/theme-function.php:777
+msgid "Hanalei Fill"
+msgstr ""
+
+#: framework/theme-function.php:778
+msgid "Handlee"
+msgstr ""
+
+#: framework/theme-function.php:779
+msgid "Hanuman"
+msgstr ""
+
+#: framework/theme-function.php:780
+msgid "Happy Monkey"
+msgstr ""
+
+#: framework/theme-function.php:781
+msgid "Headland One"
+msgstr ""
+
+#: framework/theme-function.php:782
+msgid "Henny Penny"
+msgstr ""
+
+#: framework/theme-function.php:783
+msgid "Herr Von Muellerhoff"
+msgstr ""
+
+#: framework/theme-function.php:784
+msgid "Holtwood One SC"
+msgstr ""
+
+#: framework/theme-function.php:785
+msgid "Homemade Apple"
+msgstr ""
+
+#: framework/theme-function.php:786
+msgid "Homenaje"
+msgstr ""
+
+#: framework/theme-function.php:787
+msgid "IM Fell DW Pica"
+msgstr ""
+
+#: framework/theme-function.php:788
+msgid "IM Fell DW Pica SC"
+msgstr ""
+
+#: framework/theme-function.php:789
+msgid "IM Fell Double Pica"
+msgstr ""
+
+#: framework/theme-function.php:790
+msgid "IM Fell Double Pica SC"
+msgstr ""
+
+#: framework/theme-function.php:791
+msgid "IM Fell English"
+msgstr ""
+
+#: framework/theme-function.php:792
+msgid "IM Fell English SC"
+msgstr ""
+
+#: framework/theme-function.php:793
+msgid "IM Fell French Canon"
+msgstr ""
+
+#: framework/theme-function.php:794
+msgid "IM Fell French Canon SC"
+msgstr ""
+
+#: framework/theme-function.php:795
+msgid "IM Fell Great Primer"
+msgstr ""
+
+#: framework/theme-function.php:796
+msgid "IM Fell Great Primer SC"
+msgstr ""
+
+#: framework/theme-function.php:797
+msgid "Iceberg"
+msgstr ""
+
+#: framework/theme-function.php:798
+msgid "Iceland"
+msgstr ""
+
+#: framework/theme-function.php:799
+msgid "Imprima"
+msgstr ""
+
+#: framework/theme-function.php:800
+msgid "Inconsolata"
+msgstr ""
+
+#: framework/theme-function.php:801
+msgid "Inder"
+msgstr ""
+
+#: framework/theme-function.php:802
+msgid "Indie Flower"
+msgstr ""
+
+#: framework/theme-function.php:803
+msgid "Inika"
+msgstr ""
+
+#: framework/theme-function.php:804
+msgid "Irish Grover"
+msgstr ""
+
+#: framework/theme-function.php:805
+msgid "Istok Web"
+msgstr ""
+
+#: framework/theme-function.php:806
+msgid "Italiana"
+msgstr ""
+
+#: framework/theme-function.php:807
+msgid "Italianno"
+msgstr ""
+
+#: framework/theme-function.php:808
+msgid "Jacques Francois"
+msgstr ""
+
+#: framework/theme-function.php:809
+msgid "Jacques Francois Shadow"
+msgstr ""
+
+#: framework/theme-function.php:810
+msgid "Jim Nightshade"
+msgstr ""
+
+#: framework/theme-function.php:811
+msgid "Jockey One"
+msgstr ""
+
+#: framework/theme-function.php:812
+msgid "Jolly Lodger"
+msgstr ""
+
+#: framework/theme-function.php:813
+msgid "Josefin Sans"
+msgstr ""
+
+#: framework/theme-function.php:814
+msgid "Josefin Slab"
+msgstr ""
+
+#: framework/theme-function.php:815
+msgid "Joti One"
+msgstr ""
+
+#: framework/theme-function.php:816
+msgid "Judson"
+msgstr ""
+
+#: framework/theme-function.php:817
+msgid "Julee"
+msgstr ""
+
+#: framework/theme-function.php:818
+msgid "Julius Sans One"
+msgstr ""
+
+#: framework/theme-function.php:819
+msgid "Junge"
+msgstr ""
+
+#: framework/theme-function.php:820
+msgid "Jura"
+msgstr ""
+
+#: framework/theme-function.php:821
+msgid "Just Another Hand"
+msgstr ""
+
+#: framework/theme-function.php:822
+msgid "Just Me Again Down Here"
+msgstr ""
+
+#: framework/theme-function.php:823
+msgid "Kameron"
+msgstr ""
+
+#: framework/theme-function.php:824
+msgid "Kantumruy"
+msgstr ""
+
+#: framework/theme-function.php:825
+msgid "Karla"
+msgstr ""
+
+#: framework/theme-function.php:826
+msgid "Kaushan Script"
+msgstr ""
+
+#: framework/theme-function.php:827
+msgid "Kavoon"
+msgstr ""
+
+#: framework/theme-function.php:828
+msgid "Kdam Thmor"
+msgstr ""
+
+#: framework/theme-function.php:829
+msgid "Keania One"
+msgstr ""
+
+#: framework/theme-function.php:830
+msgid "Kelly Slab"
+msgstr ""
+
+#: framework/theme-function.php:831
+msgid "Kenia"
+msgstr ""
+
+#: framework/theme-function.php:832
+msgid "Khmer"
+msgstr ""
+
+#: framework/theme-function.php:833
+msgid "Kite One"
+msgstr ""
+
+#: framework/theme-function.php:834
+msgid "Knewave"
+msgstr ""
+
+#: framework/theme-function.php:835
+msgid "Kotta One"
+msgstr ""
+
+#: framework/theme-function.php:836
+msgid "Koulen"
+msgstr ""
+
+#: framework/theme-function.php:837
+msgid "Kranky"
+msgstr ""
+
+#: framework/theme-function.php:838
+msgid "Kreon"
+msgstr ""
+
+#: framework/theme-function.php:839
+msgid "Kristi"
+msgstr ""
+
+#: framework/theme-function.php:840
+msgid "Krona One"
+msgstr ""
+
+#: framework/theme-function.php:841
+msgid "La Belle Aurore"
+msgstr ""
+
+#: framework/theme-function.php:842
+msgid "Lancelot"
+msgstr ""
+
+#: framework/theme-function.php:843
+msgid "Lato"
+msgstr ""
+
+#: framework/theme-function.php:844
+msgid "League Script"
+msgstr ""
+
+#: framework/theme-function.php:845
+msgid "Leckerli One"
+msgstr ""
+
+#: framework/theme-function.php:846
+msgid "Ledger"
+msgstr ""
+
+#: framework/theme-function.php:847
+msgid "Lekton"
+msgstr ""
+
+#: framework/theme-function.php:848
+msgid "Lemon"
+msgstr ""
+
+#: framework/theme-function.php:849
+msgid "Libre Baskerville"
+msgstr ""
+
+#: framework/theme-function.php:850
+msgid "Life Savers"
+msgstr ""
+
+#: framework/theme-function.php:851
+msgid "Lilita One"
+msgstr ""
+
+#: framework/theme-function.php:852
+msgid "Lily Script One"
+msgstr ""
+
+#: framework/theme-function.php:853
+msgid "Limelight"
+msgstr ""
+
+#: framework/theme-function.php:854
+msgid "Linden Hill"
+msgstr ""
+
+#: framework/theme-function.php:855
+msgid "Lobster"
+msgstr ""
+
+#: framework/theme-function.php:856
+msgid "Lobster Two"
+msgstr ""
+
+#: framework/theme-function.php:857
+msgid "Londrina Outline"
+msgstr ""
+
+#: framework/theme-function.php:858
+msgid "Londrina Shadow"
+msgstr ""
+
+#: framework/theme-function.php:859
+msgid "Londrina Sketch"
+msgstr ""
+
+#: framework/theme-function.php:860
+msgid "Londrina Solid"
+msgstr ""
+
+#: framework/theme-function.php:861
+msgid "Lora"
+msgstr ""
+
+#: framework/theme-function.php:862
+msgid "Love Ya Like A Sister"
+msgstr ""
+
+#: framework/theme-function.php:863
+msgid "Loved by the King"
+msgstr ""
+
+#: framework/theme-function.php:864
+msgid "Lovers Quarrel"
+msgstr ""
+
+#: framework/theme-function.php:865
+msgid "Luckiest Guy"
+msgstr ""
+
+#: framework/theme-function.php:866
+msgid "Lusitana"
+msgstr ""
+
+#: framework/theme-function.php:867
+msgid "Lustria"
+msgstr ""
+
+#: framework/theme-function.php:868
+msgid "Macondo"
+msgstr ""
+
+#: framework/theme-function.php:869
+msgid "Macondo Swash Caps"
+msgstr ""
+
+#: framework/theme-function.php:870
+msgid "Magra"
+msgstr ""
+
+#: framework/theme-function.php:871
+msgid "Maiden Orange"
+msgstr ""
+
+#: framework/theme-function.php:872
+msgid "Mako"
+msgstr ""
+
+#: framework/theme-function.php:873
+msgid "Marcellus"
+msgstr ""
+
+#: framework/theme-function.php:874
+msgid "Marcellus SC"
+msgstr ""
+
+#: framework/theme-function.php:875
+msgid "Marck Script"
+msgstr ""
+
+#: framework/theme-function.php:876
+msgid "Margarine"
+msgstr ""
+
+#: framework/theme-function.php:877
+msgid "Marko One"
+msgstr ""
+
+#: framework/theme-function.php:878
+msgid "Marmelad"
+msgstr ""
+
+#: framework/theme-function.php:879
+msgid "Marvel"
+msgstr ""
+
+#: framework/theme-function.php:880
+msgid "Mate"
+msgstr ""
+
+#: framework/theme-function.php:881
+msgid "Mate SC"
+msgstr ""
+
+#: framework/theme-function.php:882
+msgid "Maven Pro"
+msgstr ""
+
+#: framework/theme-function.php:883
+msgid "McLaren"
+msgstr ""
+
+#: framework/theme-function.php:884
+msgid "Meddon"
+msgstr ""
+
+#: framework/theme-function.php:885
+msgid "MedievalSharp"
+msgstr ""
+
+#: framework/theme-function.php:886
+msgid "Medula One"
+msgstr ""
+
+#: framework/theme-function.php:887
+msgid "Megrim"
+msgstr ""
+
+#: framework/theme-function.php:888
+msgid "Meie Script"
+msgstr ""
+
+#: framework/theme-function.php:889
+msgid "Merienda"
+msgstr ""
+
+#: framework/theme-function.php:890
+msgid "Merienda One"
+msgstr ""
+
+#: framework/theme-function.php:891
+msgid "Merriweather"
+msgstr ""
+
+#: framework/theme-function.php:892
+msgid "Merriweather Sans"
+msgstr ""
+
+#: framework/theme-function.php:893
+msgid "Metal"
+msgstr ""
+
+#: framework/theme-function.php:894
+msgid "Metal Mania"
+msgstr ""
+
+#: framework/theme-function.php:895
+msgid "Metamorphous"
+msgstr ""
+
+#: framework/theme-function.php:896
+msgid "Metrophobic"
+msgstr ""
+
+#: framework/theme-function.php:897
+msgid "Michroma"
+msgstr ""
+
+#: framework/theme-function.php:898
+msgid "Milonga"
+msgstr ""
+
+#: framework/theme-function.php:899
+msgid "Miltonian"
+msgstr ""
+
+#: framework/theme-function.php:900
+msgid "Miltonian Tattoo"
+msgstr ""
+
+#: framework/theme-function.php:901
+msgid "Miniver"
+msgstr ""
+
+#: framework/theme-function.php:902
+msgid "Miss Fajardose"
+msgstr ""
+
+#: framework/theme-function.php:903
+msgid "Modern Antiqua"
+msgstr ""
+
+#: framework/theme-function.php:904
+msgid "Molengo"
+msgstr ""
+
+#: framework/theme-function.php:905
+msgid "Molle"
+msgstr ""
+
+#: framework/theme-function.php:906
+msgid "Monda"
+msgstr ""
+
+#: framework/theme-function.php:907
+msgid "Monofett"
+msgstr ""
+
+#: framework/theme-function.php:908
+msgid "Monoton"
+msgstr ""
+
+#: framework/theme-function.php:909
+msgid "Monsieur La Doulaise"
+msgstr ""
+
+#: framework/theme-function.php:910
+msgid "Montaga"
+msgstr ""
+
+#: framework/theme-function.php:911
+msgid "Montez"
+msgstr ""
+
+#: framework/theme-function.php:912
+msgid "Montserrat"
+msgstr ""
+
+#: framework/theme-function.php:913
+msgid "Montserrat Alternates"
+msgstr ""
+
+#: framework/theme-function.php:914
+msgid "Montserrat Subrayada"
+msgstr ""
+
+#: framework/theme-function.php:915
+msgid "Moul"
+msgstr ""
+
+#: framework/theme-function.php:916
+msgid "Moulpali"
+msgstr ""
+
+#: framework/theme-function.php:917
+msgid "Mountains of Christmas"
+msgstr ""
+
+#: framework/theme-function.php:918
+msgid "Mouse Memoirs"
+msgstr ""
+
+#: framework/theme-function.php:919
+msgid "Mr Bedfort"
+msgstr ""
+
+#: framework/theme-function.php:920
+msgid "Mr Dafoe"
+msgstr ""
+
+#: framework/theme-function.php:921
+msgid "Mr De Haviland"
+msgstr ""
+
+#: framework/theme-function.php:922
+msgid "Mrs Saint Delafield"
+msgstr ""
+
+#: framework/theme-function.php:923
+msgid "Mrs Sheppards"
+msgstr ""
+
+#: framework/theme-function.php:924
+msgid "Muli"
+msgstr ""
+
+#: framework/theme-function.php:925
+msgid "Mystery Quest"
+msgstr ""
+
+#: framework/theme-function.php:926
+msgid "Neucha"
+msgstr ""
+
+#: framework/theme-function.php:927
+msgid "Neuton"
+msgstr ""
+
+#: framework/theme-function.php:928
+msgid "New Rocker"
+msgstr ""
+
+#: framework/theme-function.php:929
+msgid "News Cycle"
+msgstr ""
+
+#: framework/theme-function.php:930
+msgid "Niconne"
+msgstr ""
+
+#: framework/theme-function.php:931
+msgid "Nixie One"
+msgstr ""
+
+#: framework/theme-function.php:932
+msgid "Nobile"
+msgstr ""
+
+#: framework/theme-function.php:933
+msgid "Nokora"
+msgstr ""
+
+#: framework/theme-function.php:934
+msgid "Norican"
+msgstr ""
+
+#: framework/theme-function.php:935
+msgid "Nosifer"
+msgstr ""
+
+#: framework/theme-function.php:936
+msgid "Nothing You Could Do"
+msgstr ""
+
+#: framework/theme-function.php:937
+msgid "Noticia Text"
+msgstr ""
+
+#: framework/theme-function.php:938
+msgid "Noto Sans"
+msgstr ""
+
+#: framework/theme-function.php:939
+msgid "Noto Serif"
+msgstr ""
+
+#: framework/theme-function.php:940 framework/theme-function.php:967
+msgid "Nova Cut"
+msgstr ""
+
+#: framework/theme-function.php:941
+msgid "Nova Flat"
+msgstr ""
+
+#: framework/theme-function.php:942
+msgid "Nova Mono"
+msgstr ""
+
+#: framework/theme-function.php:943
+msgid "Nova Oval"
+msgstr ""
+
+#: framework/theme-function.php:944
+msgid "Nova Round"
+msgstr ""
+
+#: framework/theme-function.php:945
+msgid "Nova Script"
+msgstr ""
+
+#: framework/theme-function.php:946
+msgid "Nova Slim"
+msgstr ""
+
+#: framework/theme-function.php:947
+msgid "Nova Square"
+msgstr ""
+
+#: framework/theme-function.php:948
+msgid "Numans"
+msgstr ""
+
+#: framework/theme-function.php:949
+msgid "Nunito"
+msgstr ""
+
+#: framework/theme-function.php:950
+msgid "Odor Mean Chey"
+msgstr ""
+
+#: framework/theme-function.php:951
+msgid "Offside"
+msgstr ""
+
+#: framework/theme-function.php:952
+msgid "Old Standard TT"
+msgstr ""
+
+#: framework/theme-function.php:953
+msgid "Oldenburg"
+msgstr ""
+
+#: framework/theme-function.php:954
+msgid "Oleo Script"
+msgstr ""
+
+#: framework/theme-function.php:955
+msgid "Oleo Script Swash Caps"
+msgstr ""
+
+#: framework/theme-function.php:956
+msgid "Open Sans"
+msgstr ""
+
+#: framework/theme-function.php:957
+msgid "Open Sans Condensed"
+msgstr ""
+
+#: framework/theme-function.php:958
+msgid "Oranienbaum"
+msgstr ""
+
+#: framework/theme-function.php:959
+msgid "Orbitron"
+msgstr ""
+
+#: framework/theme-function.php:960
+msgid "Oregano"
+msgstr ""
+
+#: framework/theme-function.php:961
+msgid "Orienta"
+msgstr ""
+
+#: framework/theme-function.php:962
+msgid "Original Surfer"
+msgstr ""
+
+#: framework/theme-function.php:963
+msgid "Oswald"
+msgstr ""
+
+#: framework/theme-function.php:964
+msgid "Over the Rainbow"
+msgstr ""
+
+#: framework/theme-function.php:965
+msgid "Overlock"
+msgstr ""
+
+#: framework/theme-function.php:966
+msgid "Overlock SC"
+msgstr ""
+
+#: framework/theme-function.php:968
+msgid "Oxygen"
+msgstr ""
+
+#: framework/theme-function.php:969
+msgid "Oxygen Mono"
+msgstr ""
+
+#: framework/theme-function.php:970
+msgid "PT Mono"
+msgstr ""
+
+#: framework/theme-function.php:971
+msgid "PT Sans"
+msgstr ""
+
+#: framework/theme-function.php:972
+msgid "PT Sans Caption"
+msgstr ""
+
+#: framework/theme-function.php:973
+msgid "PT Sans Narrow"
+msgstr ""
+
+#: framework/theme-function.php:974
+msgid "PT Serif"
+msgstr ""
+
+#: framework/theme-function.php:975
+msgid "PT Serif Caption"
+msgstr ""
+
+#: framework/theme-function.php:976
+msgid "Pacifico"
+msgstr ""
+
+#: framework/theme-function.php:977
+msgid "Paprika"
+msgstr ""
+
+#: framework/theme-function.php:978
+msgid "Parisienne"
+msgstr ""
+
+#: framework/theme-function.php:979
+msgid "Passero One"
+msgstr ""
+
+#: framework/theme-function.php:980
+msgid "Passion One"
+msgstr ""
+
+#: framework/theme-function.php:981
+msgid "Pathway Gothic One"
+msgstr ""
+
+#: framework/theme-function.php:982
+msgid "Patrick Hand"
+msgstr ""
+
+#: framework/theme-function.php:983
+msgid "Patrick Hand SC"
+msgstr ""
+
+#: framework/theme-function.php:984
+msgid "Patua One"
+msgstr ""
+
+#: framework/theme-function.php:985
+msgid "Paytone One"
+msgstr ""
+
+#: framework/theme-function.php:986
+msgid "Peralta"
+msgstr ""
+
+#: framework/theme-function.php:987
+msgid "Permanent Marker"
+msgstr ""
+
+#: framework/theme-function.php:988
+msgid "Petit Formal Script"
+msgstr ""
+
+#: framework/theme-function.php:989
+msgid "Petrona"
+msgstr ""
+
+#: framework/theme-function.php:990
+msgid "Philosopher"
+msgstr ""
+
+#: framework/theme-function.php:991
+msgid "Piedra"
+msgstr ""
+
+#: framework/theme-function.php:992
+msgid "Pinyon Script"
+msgstr ""
+
+#: framework/theme-function.php:993
+msgid "Pirata One"
+msgstr ""
+
+#: framework/theme-function.php:994
+msgid "Plaster"
+msgstr ""
+
+#: framework/theme-function.php:995
+msgid "Play"
+msgstr ""
+
+#: framework/theme-function.php:996
+msgid "Playball"
+msgstr ""
+
+#: framework/theme-function.php:997
+msgid "Playfair Display"
+msgstr ""
+
+#: framework/theme-function.php:998
+msgid "Playfair Display SC"
+msgstr ""
+
+#: framework/theme-function.php:999
+msgid "Podkova"
+msgstr ""
+
+#: framework/theme-function.php:1000
+msgid "Poiret One"
+msgstr ""
+
+#: framework/theme-function.php:1001
+msgid "Poller One"
+msgstr ""
+
+#: framework/theme-function.php:1002
+msgid "Poly"
+msgstr ""
+
+#: framework/theme-function.php:1003
+msgid "Pompiere"
+msgstr ""
+
+#: framework/theme-function.php:1004
+msgid "Pontano Sans"
+msgstr ""
+
+#: framework/theme-function.php:1005
+msgid "Port Lligat Sans"
+msgstr ""
+
+#: framework/theme-function.php:1006
+msgid "Port Lligat Slab"
+msgstr ""
+
+#: framework/theme-function.php:1007
+msgid "Prata"
+msgstr ""
+
+#: framework/theme-function.php:1008
+msgid "Preahvihear"
+msgstr ""
+
+#: framework/theme-function.php:1009
+msgid "Press Start 2P"
+msgstr ""
+
+#: framework/theme-function.php:1010
+msgid "Princess Sofia"
+msgstr ""
+
+#: framework/theme-function.php:1011
+msgid "Prociono"
+msgstr ""
+
+#: framework/theme-function.php:1012
+msgid "Prosto One"
+msgstr ""
+
+#: framework/theme-function.php:1013
+msgid "Puritan"
+msgstr ""
+
+#: framework/theme-function.php:1014
+msgid "Purple Purse"
+msgstr ""
+
+#: framework/theme-function.php:1015
+msgid "Quando"
+msgstr ""
+
+#: framework/theme-function.php:1016
+msgid "Quantico"
+msgstr ""
+
+#: framework/theme-function.php:1017
+msgid "Quattrocento"
+msgstr ""
+
+#: framework/theme-function.php:1018
+msgid "Quattrocento Sans"
+msgstr ""
+
+#: framework/theme-function.php:1019
+msgid "Questrial"
+msgstr ""
+
+#: framework/theme-function.php:1020
+msgid "Quicksand"
+msgstr ""
+
+#: framework/theme-function.php:1021
+msgid "Quintessential"
+msgstr ""
+
+#: framework/theme-function.php:1022
+msgid "Qwigley"
+msgstr ""
+
+#: framework/theme-function.php:1023
+msgid "Racing Sans One"
+msgstr ""
+
+#: framework/theme-function.php:1024
+msgid "Radley"
+msgstr ""
+
+#: framework/theme-function.php:1025
+msgid "Raleway"
+msgstr ""
+
+#: framework/theme-function.php:1026
+msgid "Raleway Dots"
+msgstr ""
+
+#: framework/theme-function.php:1027
+msgid "Rambla"
+msgstr ""
+
+#: framework/theme-function.php:1028
+msgid "Rammetto One"
+msgstr ""
+
+#: framework/theme-function.php:1029
+msgid "Ranchers"
+msgstr ""
+
+#: framework/theme-function.php:1030
+msgid "Rancho"
+msgstr ""
+
+#: framework/theme-function.php:1031
+msgid "Rationale"
+msgstr ""
+
+#: framework/theme-function.php:1032
+msgid "Redressed"
+msgstr ""
+
+#: framework/theme-function.php:1033
+msgid "Reenie Beanie"
+msgstr ""
+
+#: framework/theme-function.php:1034
+msgid "Revalia"
+msgstr ""
+
+#: framework/theme-function.php:1035
+msgid "Ribeye"
+msgstr ""
+
+#: framework/theme-function.php:1036
+msgid "Ribeye Marrow"
+msgstr ""
+
+#: framework/theme-function.php:1037
+msgid "Righteous"
+msgstr ""
+
+#: framework/theme-function.php:1038
+msgid "Risque"
+msgstr ""
+
+#: framework/theme-function.php:1039
+msgid "Roboto"
+msgstr ""
+
+#: framework/theme-function.php:1040
+msgid "Roboto Condensed"
+msgstr ""
+
+#: framework/theme-function.php:1041
+msgid "Roboto Slab"
+msgstr ""
+
+#: framework/theme-function.php:1042
+msgid "Rochester"
+msgstr ""
+
+#: framework/theme-function.php:1043
+msgid "Rock Salt"
+msgstr ""
+
+#: framework/theme-function.php:1044
+msgid "Rokkitt"
+msgstr ""
+
+#: framework/theme-function.php:1045
+msgid "Romanesco"
+msgstr ""
+
+#: framework/theme-function.php:1046
+msgid "Ropa Sans"
+msgstr ""
+
+#: framework/theme-function.php:1047
+msgid "Rosario"
+msgstr ""
+
+#: framework/theme-function.php:1048
+msgid "Rosarivo"
+msgstr ""
+
+#: framework/theme-function.php:1049
+msgid "Rouge Script"
+msgstr ""
+
+#: framework/theme-function.php:1050
+msgid "Rubik Mono One"
+msgstr ""
+
+#: framework/theme-function.php:1051
+msgid "Rubik One"
+msgstr ""
+
+#: framework/theme-function.php:1052
+msgid "Ruda"
+msgstr ""
+
+#: framework/theme-function.php:1053
+msgid "Rufina"
+msgstr ""
+
+#: framework/theme-function.php:1054
+msgid "Ruge Boogie"
+msgstr ""
+
+#: framework/theme-function.php:1055
+msgid "Ruluko"
+msgstr ""
+
+#: framework/theme-function.php:1056
+msgid "Rum Raisin"
+msgstr ""
+
+#: framework/theme-function.php:1057
+msgid "Ruslan Display"
+msgstr ""
+
+#: framework/theme-function.php:1058
+msgid "Russo One"
+msgstr ""
+
+#: framework/theme-function.php:1059
+msgid "Ruthie"
+msgstr ""
+
+#: framework/theme-function.php:1060
+msgid "Rye"
+msgstr ""
+
+#: framework/theme-function.php:1061
+msgid "Sacramento"
+msgstr ""
+
+#: framework/theme-function.php:1062
+msgid "Sail"
+msgstr ""
+
+#: framework/theme-function.php:1063
+msgid "Salsa"
+msgstr ""
+
+#: framework/theme-function.php:1064
+msgid "Sanchez"
+msgstr ""
+
+#: framework/theme-function.php:1065
+msgid "Sancreek"
+msgstr ""
+
+#: framework/theme-function.php:1066
+msgid "Sansita One"
+msgstr ""
+
+#: framework/theme-function.php:1067
+msgid "Sarina"
+msgstr ""
+
+#: framework/theme-function.php:1068
+msgid "Satisfy"
+msgstr ""
+
+#: framework/theme-function.php:1069
+msgid "Scada"
+msgstr ""
+
+#: framework/theme-function.php:1070
+msgid "Schoolbell"
+msgstr ""
+
+#: framework/theme-function.php:1071
+msgid "Seaweed Script"
+msgstr ""
+
+#: framework/theme-function.php:1072
+msgid "Sevillana"
+msgstr ""
+
+#: framework/theme-function.php:1073
+msgid "Seymour One"
+msgstr ""
+
+#: framework/theme-function.php:1074
+msgid "Shadows Into Light"
+msgstr ""
+
+#: framework/theme-function.php:1075
+msgid "Shadows Into Light Two"
+msgstr ""
+
+#: framework/theme-function.php:1076
+msgid "Shanti"
+msgstr ""
+
+#: framework/theme-function.php:1077 framework/theme-function.php:1115
+msgid "Share"
+msgstr ""
+
+#: framework/theme-function.php:1078
+msgid "Share Tech"
+msgstr ""
+
+#: framework/theme-function.php:1079
+msgid "Share Tech Mono"
+msgstr ""
+
+#: framework/theme-function.php:1080
+msgid "Shojumaru"
+msgstr ""
+
+#: framework/theme-function.php:1081
+msgid "Short Stack"
+msgstr ""
+
+#: framework/theme-function.php:1082
+msgid "Siemreap"
+msgstr ""
+
+#: framework/theme-function.php:1083
+msgid "Sigmar One"
+msgstr ""
+
+#: framework/theme-function.php:1084
+msgid "Signika"
+msgstr ""
+
+#: framework/theme-function.php:1085
+msgid "Signika Negative"
+msgstr ""
+
+#: framework/theme-function.php:1086
+msgid "Simonetta"
+msgstr ""
+
+#: framework/theme-function.php:1087
+msgid "Sintony"
+msgstr ""
+
+#: framework/theme-function.php:1088
+msgid "Sirin Stencil"
+msgstr ""
+
+#: framework/theme-function.php:1089
+msgid "Six Caps"
+msgstr ""
+
+#: framework/theme-function.php:1090
+msgid "Skranji"
+msgstr ""
+
+#: framework/theme-function.php:1091
+msgid "Slackey"
+msgstr ""
+
+#: framework/theme-function.php:1092
+msgid "Smokum"
+msgstr ""
+
+#: framework/theme-function.php:1093
+msgid "Smythe"
+msgstr ""
+
+#: framework/theme-function.php:1094
+msgid "Sniglet"
+msgstr ""
+
+#: framework/theme-function.php:1095
+msgid "Snippet"
+msgstr ""
+
+#: framework/theme-function.php:1096
+msgid "Snowburst One"
+msgstr ""
+
+#: framework/theme-function.php:1097
+msgid "Sofadi One"
+msgstr ""
+
+#: framework/theme-function.php:1098
+msgid "Sofia"
+msgstr ""
+
+#: framework/theme-function.php:1099
+msgid "Sonsie One"
+msgstr ""
+
+#: framework/theme-function.php:1100
+msgid "Sorts Mill Goudy"
+msgstr ""
+
+#: framework/theme-function.php:1101
+msgid "Source Code Pro"
+msgstr ""
+
+#: framework/theme-function.php:1102
+msgid "Source Sans Pro"
+msgstr ""
+
+#: framework/theme-function.php:1103
+msgid "Special Elite"
+msgstr ""
+
+#: framework/theme-function.php:1104
+msgid "Spicy Rice"
+msgstr ""
+
+#: framework/theme-function.php:1105
+msgid "Spinnaker"
+msgstr ""
+
+#: framework/theme-function.php:1106
+msgid "Spirax"
+msgstr ""
+
+#: framework/theme-function.php:1107
+msgid "Squada One"
+msgstr ""
+
+#: framework/theme-function.php:1108
+msgid "Stalemate"
+msgstr ""
+
+#: framework/theme-function.php:1109
+msgid "Stalinist One"
+msgstr ""
+
+#: framework/theme-function.php:1110
+msgid "Stardos Stencil"
+msgstr ""
+
+#: framework/theme-function.php:1111
+msgid "Stint Ultra Condensed"
+msgstr ""
+
+#: framework/theme-function.php:1112
+msgid "Stint Ultra Expanded"
+msgstr ""
+
+#: framework/theme-function.php:1113
+msgid "Stoke"
+msgstr ""
+
+#: framework/theme-function.php:1114
+msgid "Strait"
+msgstr ""
+
+#: framework/theme-function.php:1116
+msgid "Sunshiney"
+msgstr ""
+
+#: framework/theme-function.php:1117
+msgid "Supermercado One"
+msgstr ""
+
+#: framework/theme-function.php:1118
+msgid "Suwannaphum"
+msgstr ""
+
+#: framework/theme-function.php:1119
+msgid "Swanky and Moo Moo"
+msgstr ""
+
+#: framework/theme-function.php:1120
+msgid "Syncopate"
+msgstr ""
+
+#: framework/theme-function.php:1121
+msgid "Tangerine"
+msgstr ""
+
+#: framework/theme-function.php:1122
+msgid "Taprom"
+msgstr ""
+
+#: framework/theme-function.php:1123
+msgid "Tauri"
+msgstr ""
+
+#: framework/theme-function.php:1124
+msgid "Telex"
+msgstr ""
+
+#: framework/theme-function.php:1125
+msgid "Tenor Sans"
+msgstr ""
+
+#: framework/theme-function.php:1126
+msgid "Text Me One"
+msgstr ""
+
+#: framework/theme-function.php:1127
+msgid "The Girl Next Door"
+msgstr ""
+
+#: framework/theme-function.php:1128
+msgid "Tienne"
+msgstr ""
+
+#: framework/theme-function.php:1129
+msgid "Tinos"
+msgstr ""
+
+#: framework/theme-function.php:1130
+msgid "Titan One"
+msgstr ""
+
+#: framework/theme-function.php:1131
+msgid "Titillium Web"
+msgstr ""
+
+#: framework/theme-function.php:1132
+msgid "Trade Winds"
+msgstr ""
+
+#: framework/theme-function.php:1133
+msgid "Trocchi"
+msgstr ""
+
+#: framework/theme-function.php:1134
+msgid "Trochut"
+msgstr ""
+
+#: framework/theme-function.php:1135
+msgid "Trykker"
+msgstr ""
+
+#: framework/theme-function.php:1136
+msgid "Tulpen One"
+msgstr ""
+
+#: framework/theme-function.php:1137
+msgid "Ubuntu"
+msgstr ""
+
+#: framework/theme-function.php:1138
+msgid "Ubuntu Condensed"
+msgstr ""
+
+#: framework/theme-function.php:1139
+msgid "Ubuntu Mono"
+msgstr ""
+
+#: framework/theme-function.php:1140
+msgid "Ultra"
+msgstr ""
+
+#: framework/theme-function.php:1141
+msgid "Uncial Antiqua"
+msgstr ""
+
+#: framework/theme-function.php:1142
+msgid "Underdog"
+msgstr ""
+
+#: framework/theme-function.php:1143
+msgid "Unica One"
+msgstr ""
+
+#: framework/theme-function.php:1144
+msgid "UnifrakturCook"
+msgstr ""
+
+#: framework/theme-function.php:1145
+msgid "UnifrakturMaguntia"
+msgstr ""
+
+#: framework/theme-function.php:1146
+msgid "Unkempt"
+msgstr ""
+
+#: framework/theme-function.php:1147
+msgid "Unlock"
+msgstr ""
+
+#: framework/theme-function.php:1148
+msgid "Unna"
+msgstr ""
+
+#: framework/theme-function.php:1149
+msgid "VT323"
+msgstr ""
+
+#: framework/theme-function.php:1150
+msgid "Vampiro One"
+msgstr ""
+
+#: framework/theme-function.php:1151
+msgid "Varela"
+msgstr ""
+
+#: framework/theme-function.php:1152
+msgid "Varela Round"
+msgstr ""
+
+#: framework/theme-function.php:1153
+msgid "Shadow"
+msgstr ""
+
+#: framework/theme-function.php:1154
+msgid "Vibur"
+msgstr ""
+
+#: framework/theme-function.php:1155
+msgid "Vidaloka"
+msgstr ""
+
+#: framework/theme-function.php:1156
+msgid "Viga"
+msgstr ""
+
+#: framework/theme-function.php:1157
+msgid "Voces"
+msgstr ""
+
+#: framework/theme-function.php:1158
+msgid "Volkhov"
+msgstr ""
+
+#: framework/theme-function.php:1159
+msgid "Vollkorn"
+msgstr ""
+
+#: framework/theme-function.php:1160
+msgid "Voltaire"
+msgstr ""
+
+#: framework/theme-function.php:1161
+msgid "Waiting for the Sunrise"
+msgstr ""
+
+#: framework/theme-function.php:1162
+msgid "Wallpoet"
+msgstr ""
+
+#: framework/theme-function.php:1163
+msgid "Walter Turncoat"
+msgstr ""
+
+#: framework/theme-function.php:1164
+msgid "Warnes"
+msgstr ""
+
+#: framework/theme-function.php:1165
+msgid "Wellfleet"
+msgstr ""
+
+#: framework/theme-function.php:1166
+msgid "Wendy One"
+msgstr ""
+
+#: framework/theme-function.php:1167
+msgid "Wire One"
+msgstr ""
+
+#: framework/theme-function.php:1168
+msgid "Yanone Kaffeesatz"
+msgstr ""
+
+#: framework/theme-function.php:1169
+msgid "Yellowtail"
+msgstr ""
+
+#: framework/theme-function.php:1170
+msgid "Yeseva One"
+msgstr ""
+
+#: framework/theme-function.php:1171
+msgid "Yesteryear"
+msgstr ""
+
+#: framework/theme-function.php:1172
+msgid "Zeyada"
+msgstr ""
+
+#: framework/theme-metabox.php:37
+msgid "Page Metabox"
+msgstr ""
+
+#: framework/theme-metabox.php:44
+msgid "Background Color Page"
+msgstr ""
+
+#: framework/theme-metabox.php:48 framework/theme-metabox.php:72
+#: framework/theme-metabox.php:82 framework/theme-metabox.php:102
+#: framework/theme-metabox.php:127 framework/theme-metabox.php:140
+#: framework/theme-metabox.php:156 framework/theme-metabox.php:166
+#: framework/theme-metabox.php:175
+msgid "Default"
+msgstr ""
+
+#: framework/theme-metabox.php:49
+msgid "White"
+msgstr ""
+
+#: framework/theme-metabox.php:50
+msgid "Black"
+msgstr ""
+
+#: framework/theme-metabox.php:51
+msgid "Blue"
+msgstr ""
+
+#: framework/theme-metabox.php:52
+msgid "Green"
+msgstr ""
+
+#: framework/theme-metabox.php:53
+msgid "Red"
+msgstr ""
+
+#: framework/theme-metabox.php:54
+msgid "Yellow"
+msgstr ""
+
+#: framework/theme-metabox.php:55
+msgid "Orange"
+msgstr ""
+
+#: framework/theme-metabox.php:56
+msgid "Very Light Gray"
+msgstr ""
+
+#: framework/theme-metabox.php:61
+msgid "Select Revolution  Slider"
+msgstr ""
+
+#: framework/theme-metabox.php:68 framework/theme-option.php:113
+msgid "Show page heading"
+msgstr ""
+
+#: framework/theme-metabox.php:73 framework/theme-metabox.php:83
+#: framework/theme-metabox.php:141 framework/theme-metabox.php:157
+msgid "Yes"
+msgstr ""
+
+#: framework/theme-metabox.php:74 framework/theme-metabox.php:84
+#: framework/theme-metabox.php:142 framework/theme-metabox.php:158
+msgid "No"
+msgstr ""
+
+#: framework/theme-metabox.php:78
+msgid "Show page breadcrumb"
+msgstr ""
+
+#: framework/theme-metabox.php:88
+msgid "Page heading background"
+msgstr ""
+
+#: framework/theme-metabox.php:93
+msgid "Change logo"
+msgstr ""
+
+#: framework/theme-metabox.php:98 framework/theme-option.php:196
+msgid "Sidebar Position"
+msgstr ""
+
+#: framework/theme-metabox.php:103
+msgid "Without Sidebar"
+msgstr ""
+
+#: framework/theme-metabox.php:104
+msgid "Right"
+msgstr ""
+
+#: framework/theme-metabox.php:105
+msgid "Left"
+msgstr ""
+
+#: framework/theme-metabox.php:106
+msgid "Bottom"
+msgstr ""
+
+#: framework/theme-metabox.php:110
+msgid "Sidebar Name"
+msgstr ""
+
+#: framework/theme-metabox.php:116
+msgid "Extra class"
+msgstr ""
+
+#: framework/theme-metabox.php:117
+msgid "Add extra class for page content"
+msgstr ""
+
+#: framework/theme-metabox.php:123
+msgid "Header style"
+msgstr ""
+
+#: framework/theme-metabox.php:128
+msgid "Header Style 1"
+msgstr ""
+
+#: framework/theme-metabox.php:129
+msgid "Header Style 2"
+msgstr ""
+
+#: framework/theme-metabox.php:130
+msgid "Header Style 3"
+msgstr ""
+
+#: framework/theme-metabox.php:131
+msgid "Header Style 4"
+msgstr ""
+
+#: framework/theme-metabox.php:132
+msgid "Header Style 5"
+msgstr ""
+
+#: framework/theme-metabox.php:136 framework/theme-option.php:417
+msgid "Sticky Header"
+msgstr ""
+
+#: framework/theme-metabox.php:146 framework/theme-register.php:117
+msgid "Primary Menu"
+msgstr ""
+
+#: framework/theme-metabox.php:152
+msgid "Show Donate button"
+msgstr ""
+
+#: framework/theme-metabox.php:162 framework/theme-option.php:532
+msgid "Footer style"
+msgstr ""
+
+#: framework/theme-metabox.php:167
+msgid "Footer version 1"
+msgstr ""
+
+#: framework/theme-metabox.php:171 framework/theme-option.php:260
+msgid "Theme style"
+msgstr ""
+
+#: framework/theme-metabox.php:176
+msgid "Dark"
+msgstr ""
+
+#: framework/theme-metabox.php:177
+msgid "Light"
+msgstr ""
+
+#: framework/theme-option.php:105
+msgid "General setting"
+msgstr ""
+
+#: framework/theme-option.php:108
+msgid "Show demo setting panel"
+msgstr ""
+
+#: framework/theme-option.php:109
+msgid ""
+"Check this box to active the setting panel. This panel should be shown only "
+"in demo mode"
+msgstr ""
+
+#: framework/theme-option.php:114
+msgid "Check this box to show or hide page heading"
+msgstr ""
+
+#: framework/theme-option.php:118
+msgid "Show breadcrumbs"
+msgstr ""
+
+#: framework/theme-option.php:119
+msgid "Check to display the breadcrumbs in general. Uncheck to hide them."
+msgstr ""
+
+#: framework/theme-option.php:124
+msgid "Retina support:"
+msgstr ""
+
+#: framework/theme-option.php:125
+msgid ""
+"Each time an image is uploaded, a higher quality version is created and "
+"stored with @2x added to the filename in the media upload folder. These @2x "
+"images will be loaded with high-resolution screens."
+msgstr ""
+
+#: framework/theme-option.php:130
+msgid "Google API"
+msgstr ""
+
+#: framework/theme-option.php:131
+msgid ""
+"Use for process data from google service. Eg: map, photo, video... To get "
+"Google api, you can access via <a href=\"https://console.developers.google."
+"com/\" target=\"_blank\">here</a>."
+msgstr ""
+
+#: framework/theme-option.php:136
+msgid "Typography"
+msgstr ""
+
+#: framework/theme-option.php:143
+msgid "Select Body Font Family"
+msgstr ""
+
+#: framework/theme-option.php:144
+msgid "Select a font family for body text"
+msgstr ""
+
+#: framework/theme-option.php:149
+msgid "Body Font Settings"
+msgstr ""
+
+#: framework/theme-option.php:150 framework/theme-option.php:161
+#: framework/theme-option.php:172
+msgid ""
+"Adjust the settings below to load different character sets and types for "
+"fonts. More character sets and types equals to slower page load."
+msgstr ""
+
+#: framework/theme-option.php:154
+msgid "Select Menu Font"
+msgstr ""
+
+#: framework/theme-option.php:155
+msgid "Select a font family for navigation"
+msgstr ""
+
+#: framework/theme-option.php:160
+msgid "Menu Font Settings"
+msgstr ""
+
+#: framework/theme-option.php:165
+msgid "Select Headings Font"
+msgstr ""
+
+#: framework/theme-option.php:166
+msgid "Select a font family for headings"
+msgstr ""
+
+#: framework/theme-option.php:171
+msgid "Headings Font Settings"
+msgstr ""
+
+#: framework/theme-option.php:176
+msgid "Default Font Size"
+msgstr ""
+
+#: framework/theme-option.php:177
+msgid "In pixels, default is 13"
+msgstr ""
+
+#: framework/theme-option.php:182
+msgid "Default Font Line Height"
+msgstr ""
+
+#: framework/theme-option.php:183
+msgid "In pixels, default is 28"
+msgstr ""
+
+#: framework/theme-option.php:192 framework/theme-option.php:208
+msgid "Layout"
+msgstr ""
+
+#: framework/theme-option.php:197
+msgid "Select slide bar position"
+msgstr ""
+
+#: framework/theme-option.php:209
+msgid "Select boxed or wide layout."
+msgstr ""
+
+#: framework/theme-option.php:218
+msgid "Boxed Mode Only"
+msgstr ""
+
+#: framework/theme-option.php:226
+msgid "Background Image For Outer Areas In Boxed Mode"
+msgstr ""
+
+#: framework/theme-option.php:227
+msgid ""
+"Please choose an image or insert an image url to use for the background."
+msgstr ""
+
+#: framework/theme-option.php:233 framework/theme-option.php:512
+#: framework/theme-option.php:594
+msgid "Full Background Image"
+msgstr ""
+
+#: framework/theme-option.php:234
+msgid ""
+"Check this box to have the background image display at 100% in width and "
+"height and scale according to the browser size."
+msgstr ""
+
+#: framework/theme-option.php:239 framework/theme-option.php:453
+#: framework/theme-option.php:517 framework/theme-option.php:600
+msgid "Background Repeat"
+msgstr ""
+
+#: framework/theme-option.php:240 framework/theme-option.php:454
+#: framework/theme-option.php:518 framework/theme-option.php:601
+msgid "Choose how the background image repeats."
+msgstr ""
+
+#: framework/theme-option.php:246
+msgid "Background Color"
+msgstr ""
+
+#: framework/theme-option.php:247
+msgid "Select a background color."
+msgstr ""
+
+#: framework/theme-option.php:257
+msgid "Color presets"
+msgstr ""
+
+#: framework/theme-option.php:268
+msgid "Primary Color"
+msgstr ""
+
+#: framework/theme-option.php:269
+msgid "Controls several items, ex: link hovers, highlights, and more."
+msgstr ""
+
+#: framework/theme-option.php:280
+msgid "Header Background Color"
+msgstr ""
+
+#: framework/theme-option.php:281
+msgid "Select a color for the header background."
+msgstr ""
+
+#: framework/theme-option.php:285
+msgid "Header Top Background Color"
+msgstr ""
+
+#: framework/theme-option.php:286
+msgid ""
+"Controls the background color of the top header section used in Header style "
+"2."
+msgstr ""
+
+#: framework/theme-option.php:290
+msgid "Header Border Color"
+msgstr ""
+
+#: framework/theme-option.php:291
+msgid "Select a color for the header border."
+msgstr ""
+
+#: framework/theme-option.php:296
+msgid "Content Background Color"
+msgstr ""
+
+#: framework/theme-option.php:297
+msgid "Controls the background color of the main content area."
+msgstr ""
+
+#: framework/theme-option.php:302
+msgid "Footer Background Color"
+msgstr ""
+
+#: framework/theme-option.php:303
+msgid "Select a color for the footer background."
+msgstr ""
+
+#: framework/theme-option.php:307
+msgid "Footer Border Color"
+msgstr ""
+
+#: framework/theme-option.php:308
+msgid "Select a color for the footer border."
+msgstr ""
+
+#: framework/theme-option.php:312
+msgid "Footer Back-to-top Background"
+msgstr ""
+
+#: framework/theme-option.php:313
+msgid "Select a color for the Back-to-top Background."
+msgstr ""
+
+#: framework/theme-option.php:322
+msgid "Color Scheme"
+msgstr ""
+
+#: framework/theme-option.php:330
+msgid "Body Text Color"
+msgstr ""
+
+#: framework/theme-option.php:331
+msgid "Controls the text color of body font."
+msgstr ""
+
+#: framework/theme-option.php:336
+msgid "Link Color"
+msgstr ""
+
+#: framework/theme-option.php:337
+msgid ""
+"Controls the color of all text links as well as the '>' in certain areas."
+msgstr ""
+
+#: framework/theme-option.php:342
+msgid "Header Font Color"
+msgstr ""
+
+#: framework/theme-option.php:343
+msgid "Controls the text color of the header font."
+msgstr ""
+
+#: framework/theme-option.php:348
+msgid "Header Link Color"
+msgstr ""
+
+#: framework/theme-option.php:349
+msgid "Controls the text color of the header link font."
+msgstr ""
+
+#: framework/theme-option.php:354
+msgid "Page Title Font Color"
+msgstr ""
+
+#: framework/theme-option.php:355
+msgid "Controls the text color of the page title font."
+msgstr ""
+
+#: framework/theme-option.php:360
+msgid "Blockquote Color"
+msgstr ""
+
+#: framework/theme-option.php:361
+msgid "Controls the color of blockquote."
+msgstr ""
+
+#: framework/theme-option.php:366
+msgid "Footer Headings Color"
+msgstr ""
+
+#: framework/theme-option.php:367
+msgid "Controls the text color of the footer heading font."
+msgstr ""
+
+#: framework/theme-option.php:372
+msgid "Footer Font Color"
+msgstr ""
+
+#: framework/theme-option.php:373
+msgid "Controls the text color of the footer font."
+msgstr ""
+
+#: framework/theme-option.php:378
+msgid "Footer Link Color"
+msgstr ""
+
+#: framework/theme-option.php:379
+msgid "Controls the text color of the footer link font."
+msgstr ""
+
+#: framework/theme-option.php:384
+msgid "Button Text Color"
+msgstr ""
+
+#: framework/theme-option.php:385
+msgid "Controls the text color of buttons."
+msgstr ""
+
+#: framework/theme-option.php:394
+msgid "Header Options"
+msgstr ""
+
+#: framework/theme-option.php:397 framework/theme-option.php:472
+#: framework/theme-option.php:492
+msgid "Header Info"
+msgstr ""
+
+#: framework/theme-option.php:405
+msgid "Select a Header Layout"
+msgstr ""
+
+#: framework/theme-option.php:418
+msgid "Check to enable a fixed header when scrolling, uncheck to disable."
+msgstr ""
+
+#: framework/theme-option.php:422
+msgid "Logo Sticky"
+msgstr ""
+
+#: framework/theme-option.php:423
+msgid "You can change logo header sticky when scroll mouse."
+msgstr ""
+
+#: framework/theme-option.php:428
+msgid "Select Canvas Menu"
+msgstr ""
+
+#: framework/theme-option.php:429
+msgid "Select a canvas menu"
+msgstr ""
+
+#: framework/theme-option.php:433
+msgid "Show form search"
+msgstr ""
+
+#: framework/theme-option.php:434
+msgid "Check to show form search"
+msgstr ""
+
+#: framework/theme-option.php:439
+msgid "Background Image For Header Area"
+msgstr ""
+
+#: framework/theme-option.php:440
+msgid ""
+"Please choose an image or insert an image url to use for the header "
+"background."
+msgstr ""
+
+#: framework/theme-option.php:446
+msgid "100% Background Image"
+msgstr ""
+
+#: framework/theme-option.php:447
+msgid ""
+"Check this box to have the header background image display at 100% in width "
+"and height and scale according to the browser size."
+msgstr ""
+
+#: framework/theme-option.php:459 framework/theme-option.php:576
+msgid "Show social links"
+msgstr ""
+
+#: framework/theme-option.php:460
+msgid "Show social share links in header one-page version 3 (header v4 styles)"
+msgstr ""
+
+#: framework/theme-option.php:464
+msgid "Top content"
+msgstr ""
+
+#: framework/theme-option.php:480
+msgid "Logo"
+msgstr ""
+
+#: framework/theme-option.php:481
+msgid "Please choose an image file for your logo."
+msgstr ""
+
+#: framework/theme-option.php:499
+msgid "Page Title Bar Height"
+msgstr ""
+
+#: framework/theme-option.php:500
+msgid "In pixels, ex: 10px"
+msgstr ""
+
+#: framework/theme-option.php:505
+msgid "Page Title Bar Background"
+msgstr ""
+
+#: framework/theme-option.php:506
+msgid ""
+"Please choose an image or insert an image url to use for the page title bar "
+"background."
+msgstr ""
+
+#: framework/theme-option.php:513
+msgid ""
+"Check this box to have the page title bar background image display at 100% "
+"in width and height and scale according to the browser size."
+msgstr ""
+
+#: framework/theme-option.php:529
+msgid "Footer options"
+msgstr ""
+
+#: framework/theme-option.php:540
+msgid "Footer columns"
+msgstr ""
+
+#: framework/theme-option.php:550
+msgid "Footer Logo"
+msgstr ""
+
+#: framework/theme-option.php:551
+msgid "Please choose an image file for your footer logo."
+msgstr ""
+
+#: framework/theme-option.php:555
+msgid "Footer description"
+msgstr ""
+
+#: framework/theme-option.php:556
+msgid "Please enter text description for footer."
+msgstr ""
+
+#: framework/theme-option.php:563
+msgid "Footer buttons"
+msgstr ""
+
+#: framework/theme-option.php:570
+msgid "Footer copyright"
+msgstr ""
+
+#: framework/theme-option.php:571
+msgid "Please enter text copyright for footer."
+msgstr ""
+
+#: framework/theme-option.php:577
+msgid "Show social links in footer"
+msgstr ""
+
+#: framework/theme-option.php:581
+msgid "Footer Widgets"
+msgstr ""
+
+#: framework/theme-option.php:582
+msgid "Check the box to display footer widgets."
+msgstr ""
+
+#: framework/theme-option.php:587
+msgid "Background Image For Footer Area"
+msgstr ""
+
+#: framework/theme-option.php:588
+msgid ""
+"Please choose an image or insert an image url to use for the footer widget "
+"area background."
+msgstr ""
+
+#: framework/theme-option.php:595
+msgid ""
+"Check this box to have the footer background image display at 100% in width "
+"and height and scale according to the browser size."
+msgstr ""
+
+#: framework/theme-option.php:607
+msgid "Back to top button"
+msgstr ""
+
+#: framework/theme-option.php:608
+msgid "Select the checkbox to display Back to top button"
+msgstr ""
+
+#: framework/theme-option.php:614
+msgid "Shop options"
+msgstr ""
+
+#: framework/theme-option.php:617
+msgid "Show Woocommerce Cart Icon in Top Navigation"
+msgstr ""
+
+#: framework/theme-option.php:618
+msgid "Check the box to show the Cart icon & Cart widget, uncheck to disable."
+msgstr ""
+
+#: framework/theme-option.php:622
+msgid "Show Quick View Button"
+msgstr ""
+
+#: framework/theme-option.php:623
+msgid "Check the box to show the quick view button on product image."
+msgstr ""
+
+#: framework/theme-option.php:627
+msgid "Quick View Effect"
+msgstr ""
+
+#: framework/theme-option.php:628
+msgid "Select effect of the quick view box."
+msgstr ""
+
+#: framework/theme-option.php:648
+msgid "Product Listing Layout"
+msgstr ""
+
+#: framework/theme-option.php:649
+msgid ""
+"Select the layout for product listing page. Please logout to clean the old "
+"session"
+msgstr ""
+
+#: framework/theme-option.php:657
+msgid "Troubleshooting"
+msgstr ""
+
+#: framework/theme-option.php:658
+msgid ""
+"Woocommerce jquery cookie fix<br> Read more: <a href='http://docs.woothemes."
+"com/document/jquery-cookie-fails-to-load/'>jquery-cookie-fails-to-load</a>"
+msgstr ""
+
+#: framework/theme-option.php:662
+msgid "Blog"
+msgstr ""
+
+#: framework/theme-option.php:665
+msgid "Blog Listing"
+msgstr ""
+
+#: framework/theme-option.php:671 framework/theme-option.php:707
+msgid "Post Category Title"
+msgstr ""
+
+#: framework/theme-option.php:672
+msgid "Check the box to display the post category title in each post."
+msgstr ""
+
+#: framework/theme-option.php:676 framework/theme-option.php:729
+msgid "Entry footer"
+msgstr ""
+
+#: framework/theme-option.php:677 framework/theme-option.php:730
+msgid "Check the box to display the tags and edit link (admin only)."
+msgstr ""
+
+#: framework/theme-option.php:681 framework/theme-option.php:724
+msgid "Social Sharing Box"
+msgstr ""
+
+#: framework/theme-option.php:682
+msgid "Check the box to display the social sharing box in blog listing"
+msgstr ""
+
+#: framework/theme-option.php:687
+msgid "Blog Single Post"
+msgstr ""
+
+#: framework/theme-option.php:695
+msgid "Featured Image on Single Post Page"
+msgstr ""
+
+#: framework/theme-option.php:696
+msgid "Check the box to display featured images on single post pages."
+msgstr ""
+
+#: framework/theme-option.php:701
+msgid "Post Title"
+msgstr ""
+
+#: framework/theme-option.php:702
+msgid ""
+"Check the box to display the post title that goes below the featured images."
+msgstr ""
+
+#: framework/theme-option.php:708
+msgid ""
+"Check the box to display the post category title that goes below the "
+"featured images."
+msgstr ""
+
+#: framework/theme-option.php:713
+msgid "Show Author Info"
+msgstr ""
+
+#: framework/theme-option.php:714
+msgid "Check the box to display the author info in the post."
+msgstr ""
+
+#: framework/theme-option.php:719
+msgid "Related Posts"
+msgstr ""
+
+#: framework/theme-option.php:720
+msgid "Check the box to display related posts."
+msgstr ""
+
+#: framework/theme-option.php:725
+msgid "Check the box to display the social sharing box."
+msgstr ""
+
+#: framework/theme-option.php:738
+msgid "Social Media"
+msgstr ""
+
+#: framework/theme-option.php:741
+msgid "Social Sharing"
+msgstr ""
+
+#: framework/theme-option.php:748 framework/theme-option.php:800
+msgid "Facebook"
+msgstr ""
+
+#: framework/theme-option.php:749
+msgid ""
+"Check the box to show the facebook sharing icon in blog, woocommerce and "
+"portfolio detail page."
+msgstr ""
+
+#: framework/theme-option.php:754 framework/theme-option.php:806
+msgid "Twitter"
+msgstr ""
+
+#: framework/theme-option.php:755
+msgid ""
+"Check the box to show the twitter sharing icon in blog, woocommerce and "
+"portfolio detail page."
+msgstr ""
+
+#: framework/theme-option.php:760 framework/theme-option.php:830
+msgid "LinkedIn"
+msgstr ""
+
+#: framework/theme-option.php:761
+msgid ""
+"Check the box to show the linkedin sharing icon in blog, woocommerce and "
+"portfolio detail page."
+msgstr ""
+
+#: framework/theme-option.php:766
+msgid "Google Plus"
+msgstr ""
+
+#: framework/theme-option.php:767
+msgid ""
+"Check the box to show the g+ sharing icon in blog, woocommerce and portfolio "
+"detail page."
+msgstr ""
+
+#: framework/theme-option.php:772 framework/theme-option.php:860
+msgid "Tumblr"
+msgstr ""
+
+#: framework/theme-option.php:773
+msgid ""
+"Check the box to show the tumblr sharing icon in blog, woocommerce and "
+"portfolio detail page."
+msgstr ""
+
+#: framework/theme-option.php:778 framework/theme-option.php:854
+msgid "Pinterest"
+msgstr ""
+
+#: framework/theme-option.php:779
+msgid ""
+"Check the box to show the pinterest sharing icon in blog, woocommerce and "
+"portfolio detail page."
+msgstr ""
+
+#: framework/theme-option.php:784 framework/theme-option.php:902
+msgid "Email"
+msgstr ""
+
+#: framework/theme-option.php:785
+msgid ""
+"Check the box to show the email sharing icon in blog, woocommerce and "
+"portfolio detail page."
+msgstr ""
+
+#: framework/theme-option.php:792
+msgid "Social Link"
+msgstr ""
+
+#: framework/theme-option.php:801
+msgid "Enter your Facebook link."
+msgstr ""
+
+#: framework/theme-option.php:807
+msgid "Enter your Twitter link."
+msgstr ""
+
+#: framework/theme-option.php:812
+msgid "Youtube"
+msgstr ""
+
+#: framework/theme-option.php:813
+msgid "Enter your Youtube channel link."
+msgstr ""
+
+#: framework/theme-option.php:818
+msgid "Flickr"
+msgstr ""
+
+#: framework/theme-option.php:819
+msgid "Enter your Flickr link."
+msgstr ""
+
+#: framework/theme-option.php:824
+msgid "Google+"
+msgstr ""
+
+#: framework/theme-option.php:825
+msgid "Enter your Google+ link."
+msgstr ""
+
+#: framework/theme-option.php:831
+msgid "Enter your LinkedIn link."
+msgstr ""
+
+#: framework/theme-option.php:836
+msgid "RSS"
+msgstr ""
+
+#: framework/theme-option.php:837
+msgid "Enter your RSS link."
+msgstr ""
+
+#: framework/theme-option.php:842
+msgid "Instagram"
+msgstr ""
+
+#: framework/theme-option.php:843
+msgid "Enter your instagram link."
+msgstr ""
+
+#: framework/theme-option.php:848
+msgid "Vimeo"
+msgstr ""
+
+#: framework/theme-option.php:849
+msgid "Enter your Vimeo link."
+msgstr ""
+
+#: framework/theme-option.php:855
+msgid "Enter your Pinterest link."
+msgstr ""
+
+#: framework/theme-option.php:861
+msgid "Enter your Tumblr link."
+msgstr ""
+
+#: framework/theme-option.php:866
+msgid "Dribbble"
+msgstr ""
+
+#: framework/theme-option.php:867
+msgid "Enter your Dribbble link."
+msgstr ""
+
+#: framework/theme-option.php:872
+msgid "Weibo"
+msgstr ""
+
+#: framework/theme-option.php:873
+msgid "Enter your Weibo link."
+msgstr ""
+
+#: framework/theme-option.php:878
+msgid "Dropbox"
+msgstr ""
+
+#: framework/theme-option.php:879
+msgid "Enter your Dropbox link."
+msgstr ""
+
+#: framework/theme-option.php:884
+msgid "Skype"
+msgstr ""
+
+#: framework/theme-option.php:885
+msgid "Enter your Skype account."
+msgstr ""
+
+#: framework/theme-option.php:890
+msgid "Playstore"
+msgstr ""
+
+#: framework/theme-option.php:891
+msgid "Enter your Playstore link."
+msgstr ""
+
+#: framework/theme-option.php:896
+msgid "Appstore"
+msgstr ""
+
+#: framework/theme-option.php:897
+msgid "Enter your Appstore link."
+msgstr ""
+
+#: framework/theme-option.php:903
+msgid "Enter your Email address."
+msgstr ""
+
+#: framework/theme-option.php:908
+msgid "Github"
+msgstr ""
+
+#: framework/theme-option.php:909
+msgid "Enter your Github link."
+msgstr ""
+
+#: framework/theme-option.php:919
+msgid "Import Demo"
+msgstr ""
+
+#: framework/theme-option.php:922
+msgid "Import Demo Content"
+msgstr ""
+
+#: framework/theme-option.php:932
+msgid "Backup and Restore Options"
+msgstr ""
+
+#: framework/theme-option.php:936
+msgid ""
+"You can use the two buttons below to backup your current options, and then "
+"restore it back at a later time. This is useful if you want to experiment on "
+"the options but would like to keep the old settings in case you need it back."
+msgstr ""
+
+#: framework/theme-option.php:939
+msgid "Transfer Theme Options Data"
+msgstr ""
+
+#: framework/theme-option.php:943
+msgid ""
+"You can tranfer the saved options data between different installs by copying "
+"the text inside the text box. To import data from another install, replace "
+"the data in the text box with the one from another install and click "
+"\"Import Options\"."
+msgstr ""
+
+#: framework/theme-plugin-load.php:31
+msgid "Visual Composer"
+msgstr ""
+
+#: framework/theme-plugin-load.php:42
+msgid "Inwave Common"
+msgstr ""
+
+#: framework/theme-plugin-load.php:52
+msgid "Portfolios Manager"
+msgstr ""
+
+#: framework/theme-plugin-load.php:62
+msgid "Revolution Slider"
+msgstr ""
+
+#: framework/theme-plugin-load.php:106
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/theme-plugin-load.php:109
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/theme-plugin-load.php:111
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/theme-plugin-load.php:116
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: framework/theme-register.php:13
+msgid "Sidebar Default"
+msgstr ""
+
+#: framework/theme-register.php:25
+msgid "Sidebar Product Page"
+msgstr ""
+
+#: framework/theme-register.php:37
+msgid "Sidebar Service"
+msgstr ""
+
+#: framework/theme-register.php:54
+msgid "Footer widget 4"
+msgstr ""
+
+#: framework/theme-register.php:56 framework/theme-register.php:70
+#: framework/theme-register.php:84 framework/theme-register.php:98
+msgid "This is footer widget location"
+msgstr ""
+
+#: framework/theme-register.php:68
+msgid "Footer widget 3"
+msgstr ""
+
+#: framework/theme-register.php:82
+msgid "Footer widget 2"
+msgstr ""
+
+#: framework/theme-register.php:96
+msgid "Footer widget 1"
+msgstr ""
+
+#: framework/theme-register.php:118
+msgid "Footer Menu"
+msgstr ""
+
+#: headers/header-default.php:44 headers/header-v2.php:27
+#: headers/header-v3.php:25 headers/header-v4.php:47 headers/header-v5.php:21
+#: searchform.php:3
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: headers/header-default.php:44 headers/header-v2.php:27
+#: headers/header-v3.php:25 headers/header-v4.php:47 headers/header-v5.php:21
+msgctxt "placeholder"
+msgid "Enter  key words..."
+msgstr ""
+
+#: searchform.php:3
+msgctxt "placeholder"
+msgid "Enter your keywords"
+msgstr ""
+
+#: sidebar-footer-widget.php:26
+msgid ""
+"This is the footer area. Please add more widgets in Appearance -> Widgets -> "
+"Sidebar Footer Default"
+msgstr ""
+
+#: single-iw_portfolio.php:21 taxonomy-iwp_category.php:38
+msgid "No theme was found"
+msgstr ""
+
+#: taxonomy-iwevent_category.php:23
+msgid "No file exists"
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:40
+msgid "Shipping costs will be calculated once you have provided your address."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:42
+msgid ""
+"There are no shipping methods available. Please double check your address, "
+"or contact us if you need any help."
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:25
+msgid "Shipping"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:34
+msgid "Cart Totals"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:42 woocommerce/cart/mini-cart.php:64
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:79 woocommerce/cart/cart.php:31
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:92
+#, php-format
+msgid "estimated for %s"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:95
+#, php-format
+msgid ""
+"Note: Shipping and taxes are estimated%s and will be updated during checkout "
+"based on your billing and shipping information."
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:102 woocommerce/cart/mini-cart.php:68
+msgid "Checkout"
+msgstr ""
+
+#: woocommerce/cart/cart.php:28
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:29
+msgid "Price"
+msgstr ""
+
+#: woocommerce/cart/cart.php:30
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:70
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:124
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:156 woocommerce/checkout/form-coupon.php:22
+msgid "Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:161 woocommerce/checkout/form-coupon.php:28
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:165 woocommerce/checkout/form-coupon.php:31
+#: woocommerce/checkout/form-coupon.php:32
+msgid "Apply Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:168 woocommerce/cart/cart.php:170
+msgid "Update Cart"
+msgstr ""
+
+#: woocommerce/cart/cross-sells.php:39
+msgid "product related"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:61
+msgid "No products in the cart."
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:67
+msgid "View Cart"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:19
+msgid "Calculate Shipping"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:23
+msgid "Select a country&hellip;"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:32
+msgid "City"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:44
+#: woocommerce/cart/shipping-calculator.php:49
+#: woocommerce/cart/shipping-calculator.php:60
+msgid "State / county"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:50
+msgid "Select a state&hellip;"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:69
+msgid "Postcode / Zip"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:77
+msgid "Update Totals"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:18
+msgid "Billing &amp; Shipping"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:20
+msgid "Billing Details"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:43
+msgid "Create an account?"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:54
+msgid ""
+"Create an account by entering the information below. If you are a returning "
+"customer please login at the top of the page."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:24
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:51
+#: woocommerce/checkout/form-checkout.php:71
+msgid "Your order"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:18
+msgid "Returning customer?"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:19
+msgid "Click here to login"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:26
+msgid ""
+"If you have shopped with us before, please enter your details in the boxes "
+"below. If you are a new customer please proceed to the Billing &amp; "
+"Shipping section."
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:19
+msgid "Shipping address"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:25
+msgid "Ship to a different address?"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:69
+msgid "Additional Information"
+msgstr ""
+
+#: woocommerce/checkout/payment.php:36
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:36
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:44
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the <em>Update Totals</em> button before placing your "
+"order. You may be charged more than the amount stated above if you fail to "
+"do so."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:45
+msgid "Update totals"
+msgstr ""
+
+#: woocommerce/content-product.php:42
+msgid "Sale"
+msgstr ""
+
+#: woocommerce/content-product.php:75 woocommerce/single-product/price.php:45
+#, php-format
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: woocommerce/content-product.php:77 woocommerce/single-product/price.php:47
+#, php-format
+msgid "out of %s5%s"
+msgstr ""
+
+#: woocommerce/content-product.php:78 woocommerce/single-product/price.php:48
+#, php-format
+msgid "based on %s customer rating"
+msgid_plural "based on %s customer ratings"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/content-product.php:85
+msgid "Add to cart"
+msgstr ""
+
+#: woocommerce/content-product_row.php:43
+#: woocommerce/single-product/sale-flash.php:18
+msgid "Sale!"
+msgstr ""
+
+#: woocommerce/global/form-login.php:21 woocommerce/global/form-login.php:45
+msgid "Login"
+msgstr ""
+
+#: woocommerce/global/form-login.php:31
+msgid "Username or email"
+msgstr ""
+
+#: woocommerce/global/form-login.php:35
+msgid "Password"
+msgstr ""
+
+#: woocommerce/global/form-login.php:48
+msgid "Remember me"
+msgstr ""
+
+#: woocommerce/global/form-login.php:52
+msgid "Lost your password?"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:16
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:33
+msgid "Showing the single result"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:35
+#, php-format
+msgid "Showing all %d results"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:37
+#, php-format
+msgctxt "%1$d = first, %2$d = last, %3$d = total"
+msgid "Showing %1$d&ndash;%2$d of %3$d results"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:25
+#, php-format
+msgid "%s review for %s"
+msgid_plural "%s reviews for %s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product-reviews.php:27
+msgid "Reviews"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:48
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:61
+msgid "Add a review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:61
+msgid "Be the first to review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:62
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:66
+msgid "Name (*)"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:67
+msgid "Email (*)"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:69
+msgid "Submit"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:76
+msgid "Your Review (*)"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:79
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a review."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:83
+msgid "Your Rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:84
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:85
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:86
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:88
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:89
+msgid "Very Poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:101
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: woocommerce/single-product/meta.php:26
+msgid "SKU:"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:26
+msgid "N/A"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:30
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/meta.php:32
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/product-image.php:43
+msgid "Placeholder"
+msgstr ""
+
+#: woocommerce/single-product/related.php:42
+msgid "Related Products"
+msgstr ""
+
+#: woocommerce/single-product/up-sells.php:42
+msgid "You may also like&hellip;"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "MotoHero"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://inwavethemes.com/wordpress/motohero"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Moto Hero is a modern WordPress theme created using Twitter Bootstrap 3 "
+"which is suitable for event based websites. Moto Hero is ultra responsive "
+"looks perfectly in all screens."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "inwavethemes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://inwavethemes.com"
+msgstr ""

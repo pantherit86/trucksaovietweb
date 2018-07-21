@@ -1,0 +1,12 @@
+----- v1.0 ------------
+2016/07/16: Initial Release
+----- v1.1 ------------
+2016/08/01: Improved light version
+----- v1.2 ------------
+2016/09/12: Optimized performance on mobile
+2016/09/12: Updated Visual Composer
+----- v1.2.1 ------------
+2016/11/01: Updated Revolution slider v5.3.0.2
+----- v1.2.2 ------------
+2017/01/24: Updated Revolution slider v5.3.1.5
+2017/01/24: Updated Visual Composer v5.0.1

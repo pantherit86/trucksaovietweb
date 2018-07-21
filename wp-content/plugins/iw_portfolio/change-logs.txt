@@ -1,0 +1,3 @@
+--------- v1.2 ------------
+- Fixed: iw portfolio extrafields editing bug
+- Added: font star for portfolio
